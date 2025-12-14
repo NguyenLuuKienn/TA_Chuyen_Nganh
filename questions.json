@@ -1,0 +1,5402 @@
+[
+  {
+    "id": 1,
+    "question": "When a program appears to stop responding but doesn’t close, it is said to _______.",
+    "options": {
+      "A": "crash",
+      "B": "hang",
+      "C": "reboot",
+      "D": "restart"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 2,
+    "question": "When a computer or program suddenly shuts down, it has _______.",
+    "options": {
+      "A": "hung",
+      "B": "crashed",
+      "C": "frozen",
+      "D": "failed"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 3,
+    "question": "Another word for “hang” is _______.",
+    "options": {
+      "A": "freeze",
+      "B": "break",
+      "C": "delay",
+      "D": "slow"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 4,
+    "question": "A system that tracks IT issues and assigns them to support staff is called a(n) _______.",
+    "options": {
+      "A": "issue tracking system",
+      "B": "security log",
+      "C": "firewall",
+      "D": "update center"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 5,
+    "question": "A “ticket” in an issue tracking system refers to _______.",
+    "options": {
+      "A": "a password",
+      "B": "a record of a problem",
+      "C": "an installation code",
+      "D": "a support team"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 6,
+    "question": "“Tier 1 support” means _______.",
+    "options": {
+      "A": "advanced-level engineers",
+      "B": "first-line basic support",
+      "C": "network administrators",
+      "D": "software developers"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 7,
+    "question": "If a problem cannot be solved at Tier 1, it is _______ to Tier 2.",
+    "options": {
+      "A": "reduced",
+      "B": "repeated",
+      "C": "escalated",
+      "D": "transferred manually"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 8,
+    "question": "“Bloatware” refers to _______.",
+    "options": {
+      "A": "useful security programs",
+      "B": "pre-installed advertising software",
+      "C": "software for cleaning computers",
+      "D": "virus protection tools"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 9,
+    "question": "“RSI” stands for _______.",
+    "options": {
+      "A": "Repetitive Software Installation",
+      "B": "Repetitive Strain Injury",
+      "C": "Remote System Integration",
+      "D": "Random Signal Interference"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 10,
+    "question": "“Short circuit” problems are often caused by _______.",
+    "options": {
+      "A": "using too many programs",
+      "B": "overheating",
+      "C": "spilling drinks on computers",
+      "D": "installing wrong software"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 11,
+    "question": "If you don’t sit correctly at a computer, you might get _______.",
+    "options": {
+      "A": "headache",
+      "B": "backache",
+      "C": "stomachache",
+      "D": "earache"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 12,
+    "question": "Toner cartridges can be dangerous because _______.",
+    "options": {
+      "A": "they may explode",
+      "B": "they can get very hot",
+      "C": "they contain liquid ink",
+      "D": "they are easily broken"
+    },
+    "correct_answer": "A",
+    "explanation": "Trong các quy tắc an toàn IT, toner cartridge thường được cảnh báo không được ném vào lửa vì có thể gây nổ."
+  },
+  {
+    "id": 13,
+    "question": "“Posture” refers to _______.",
+    "options": {
+      "A": "how you type",
+      "B": "how you sit or stand",
+      "C": "your sleeping habits",
+      "D": "your diet"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 14,
+    "question": "The main goal of a call centre is to _______.",
+    "options": {
+      "A": "sell new software",
+      "B": "diagnose and solve IT problems",
+      "C": "repair hardware physically",
+      "D": "update company websites"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 15,
+    "question": "What does “not responding” on a title bar usually mean?",
+    "options": {
+      "A": "The program is running normally.",
+      "B": "The program has hung.",
+      "C": "The system is restarting.",
+      "D": "The user closed it."
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 16,
+    "question": "Which section of the unit focuses on applying for jobs?",
+    "options": {
+      "A": "Diagnosis",
+      "B": "Solutions",
+      "C": "Your Future in IT",
+      "D": "Investigations"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 17,
+    "question": "A “CV” is mainly used to _______.",
+    "options": {
+      "A": "order IT equipment",
+      "B": "apply for a job",
+      "C": "fix computer problems",
+      "D": "install software"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 18,
+    "question": "In IT, “speculation and deduction” means _______.",
+    "options": {
+      "A": "guessing the cause of a problem",
+      "B": "restarting the system",
+      "C": "deleting unused files",
+      "D": "writing a report"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 19,
+    "question": "A “Europass CV” is a format commonly used _______.",
+    "options": {
+      "A": "in Asia",
+      "B": "in the USA",
+      "C": "across Europe",
+      "D": "worldwide"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 20,
+    "question": "“Tier 3” support usually involves _______.",
+    "options": {
+      "A": "software developers and engineers",
+      "B": "customer service assistants",
+      "C": "network users",
+      "D": "marketing staff"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 21,
+    "question": "We use the present perfect to talk about actions in _______.",
+    "options": {
+      "A": "finished time periods",
+      "B": "the future",
+      "C": "unfinished time periods",
+      "D": "habitual actions"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 22,
+    "question": "Which sentence is correct?",
+    "options": {
+      "A": "Did you check the manual yet?",
+      "B": "Have you checked the manual yet?",
+      "C": "Have you check the manual yet?",
+      "D": "Did you have checked the manual yet?"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 23,
+    "question": "Which tense is used in “I rebooted the computer yesterday”?",
+    "options": {
+      "A": "Present perfect",
+      "B": "Past continuous",
+      "C": "Past simple",
+      "D": "Present simple"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 24,
+    "question": "“I haven’t received the update yet.” — The focus is on _______.",
+    "options": {
+      "A": "the result",
+      "B": "the duration",
+      "C": "the reason",
+      "D": "the frequency"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 25,
+    "question": "Which modal verb expresses strong certainty about a cause?",
+    "options": {
+      "A": "might",
+      "B": "could",
+      "C": "can’t",
+      "D": "must"
+    },
+    "correct_answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 26,
+    "question": "Which modal verb expresses strong negative deduction?",
+    "options": {
+      "A": "might",
+      "B": "can’t",
+      "C": "must",
+      "D": "should"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 27,
+    "question": "“The battery must be flat by now.” means _______.",
+    "options": {
+      "A": "I’m sure it’s full.",
+      "B": "It’s probably empty.",
+      "C": "It’s just charging.",
+      "D": "I have no idea."
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 28,
+    "question": "“He could be helping someone else.” expresses _______.",
+    "options": {
+      "A": "a suggestion",
+      "B": "speculation",
+      "C": "certainty",
+      "D": "a command"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 29,
+    "question": "Which structure gives advice or solutions?",
+    "options": {
+      "A": "Try + verb-ing",
+      "B": "Might + verb",
+      "C": "Can’t + verb",
+      "D": "Have + verb"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 30,
+    "question": "Choose the correct first conditional:",
+    "options": {
+      "A": "If you will press this button, it stops.",
+      "B": "If you press this button, it will stop.",
+      "C": "If you pressed this button, it stops.",
+      "D": "If you had pressed this button, it stops."
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 31,
+    "question": "“If you spill your drink on your computer, it ______ short circuit.”",
+    "options": {
+      "A": "might",
+      "B": "must",
+      "C": "can’t",
+      "D": "should"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 32,
+    "question": "“Try restarting your computer.” means _______.",
+    "options": {
+      "A": "Don’t restart.",
+      "B": "Maybe restart will fix it.",
+      "C": "You already restarted.",
+      "D": "Restarting is impossible."
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 33,
+    "question": "“Have you installed the software yet?” expects an answer in _______.",
+    "options": {
+      "A": "the past simple",
+      "B": "the future tense",
+      "C": "the present perfect",
+      "D": "the present simple"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 34,
+    "question": "“Did you send the error report?” refers to _______.",
+    "options": {
+      "A": "a completed past action",
+      "B": "an ongoing action",
+      "C": "an unfinished time",
+      "D": "a future plan"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 35,
+    "question": "Which sentence is wrong?",
+    "options": {
+      "A": "I have checked the cables.",
+      "B": "I didn’t reboot it yesterday.",
+      "C": "Have you tried restarting?",
+      "D": "I have saw the error message."
+    },
+    "correct_answer": "D",
+    "explanation": "Sai ngữ pháp: 'have saw' -> 'have seen'"
+  },
+  {
+    "id": 36,
+    "question": "What does a help desk operator usually follow when answering calls?",
+    "options": {
+      "A": "A manual",
+      "B": "A script",
+      "C": "A diary",
+      "D": "A CV"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 37,
+    "question": "“Escalate to Tier 2” means _______.",
+    "options": {
+      "A": "cancel the problem",
+      "B": "send it to a higher level",
+      "C": "fix it immediately",
+      "D": "restart the device"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 38,
+    "question": "What is the main purpose of an issue tracking system?",
+    "options": {
+      "A": "To store user passwords",
+      "B": "To monitor and manage support problems",
+      "C": "To design new software",
+      "D": "To update antivirus programs"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 39,
+    "question": "What should you do before replacing a toner cartridge?",
+    "options": {
+      "A": "Shake it",
+      "B": "Cool it down",
+      "C": "Heat it",
+      "D": "Clean it with water"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 40,
+    "question": "Which of the following is NOT a health and safety issue?",
+    "options": {
+      "A": "RSI",
+      "B": "Posture",
+      "C": "Bloatware",
+      "D": "Short circuit"
+    },
+    "correct_answer": "C",
+    "explanation": "Bloatware là vấn đề phần mềm, không phải vấn đề sức khỏe hay an toàn vật lý."
+  },
+  {
+    "id": 41,
+    "question": "When working inside a computer, you should _______.",
+    "options": {
+      "A": "unplug it first",
+      "B": "keep it running",
+      "C": "use it online",
+      "D": "update the OS"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 42,
+    "question": "If cables are left where people walk, they might _______.",
+    "options": {
+      "A": "stop working",
+      "B": "trip and fall",
+      "C": "burn",
+      "D": "hang"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 43,
+    "question": "Which document shows your qualifications and skills?",
+    "options": {
+      "A": "Manual",
+      "B": "CV",
+      "C": "Script",
+      "D": "Ticket"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 44,
+    "question": "The Europass CV format is designed to be _______.",
+    "options": {
+      "A": "used only by engineers",
+      "B": "standardized across Europe",
+      "C": "written by companies",
+      "D": "handwritten"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 45,
+    "question": "Which question might you hear in a job interview?",
+    "options": {
+      "A": "What’s your IP address?",
+      "B": "What are your strengths and weaknesses?",
+      "C": "Have you restarted your PC?",
+      "D": "What’s your favorite software bug?"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 46,
+    "question": "“I’ve worked in IT for three years” uses _______.",
+    "options": {
+      "A": "past simple",
+      "B": "present perfect",
+      "C": "future simple",
+      "D": "present continuous"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 47,
+    "question": "“I’m going to apply for a job in software design” expresses _______.",
+    "options": {
+      "A": "a prediction",
+      "B": "an intention",
+      "C": "a habit",
+      "D": "a past event"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 48,
+    "question": "A person who answers basic technical calls works in _______.",
+    "options": {
+      "A": "Tier 1 support",
+      "B": "Tier 3 support",
+      "C": "Software development",
+      "D": "IT management"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 49,
+    "question": "What’s the main difference between a CV and a résumé?",
+    "options": {
+      "A": "They are completely different.",
+      "B": "CV is used in the UK, résumé in the USA.",
+      "C": "Résumé is for engineers only.",
+      "D": "CV is for schools, résumé for jobs."
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 50,
+    "question": "During troubleshooting, the first step is to _______.",
+    "options": {
+      "A": "replace the hardware",
+      "B": "identify the symptoms",
+      "C": "reinstall Windows",
+      "D": "close all program"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 51,
+    "question": "What is the first step in the software development process?",
+    "options": {
+      "A": "Test and debug the code",
+      "B": "Write the code",
+      "C": "Speak with users and analyze their needs",
+      "D": "Approve the final version"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 52,
+    "question": "Why does Jess talk to the client at the beginning of the process?",
+    "options": {
+      "A": "To design the interface",
+      "B": "To find out what users need",
+      "C": "To test the program",
+      "D": "To approve the software"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 53,
+    "question": "Why are the interviews sometimes difficult?",
+    "options": {
+      "A": "Clients are not cooperative",
+      "B": "They must analyze each step in detail",
+      "C": "There is not enough time",
+      "D": "Programmers don’t understand users"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 54,
+    "question": "What does the specification document include?",
+    "options": {
+      "A": "Only the code",
+      "B": "The hardware details",
+      "C": "What every button and menu does",
+      "D": "User feedback"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 55,
+    "question": "Why must the client check the specification?",
+    "options": {
+      "A": "To approve it before development",
+      "B": "To write the program",
+      "C": "To test it",
+      "D": "To create the interface"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 56,
+    "question": "What does the word debug mean?",
+    "options": {
+      "A": "Add new features",
+      "B": "Fix errors in code",
+      "C": "Approve a plan",
+      "D": "Interview users"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 57,
+    "question": "“Approve” means:",
+    "options": {
+      "A": "To test carefully",
+      "B": "To agree or accept something officially",
+      "C": "To write again",
+      "D": "To explain something"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 58,
+    "question": "What comes after writing code?",
+    "options": {
+      "A": "Testing and debugging",
+      "B": "Planning the project",
+      "C": "Speaking to users",
+      "D": "Approving specifications"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 59,
+    "question": "The process order is:",
+    "options": {
+      "A": "Speak → Write → Plan → Test → Approve",
+      "B": "Plan → Speak → Test → Write → Approve",
+      "C": "Speak → Plan → Write → Test → Approve",
+      "D": "Plan → Test → Speak → Approve → Write"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 60,
+    "question": "The specification document should be checked:",
+    "options": {
+      "A": "Before it is given to developers",
+      "B": "After release",
+      "C": "During debugging",
+      "D": "While writing code"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 61,
+    "question": "Which page do most websites have?",
+    "options": {
+      "A": "Install page",
+      "B": "Update page",
+      "C": "About Us",
+      "D": "Test page"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 62,
+    "question": "Which of these items are often at the top of a page?",
+    "options": {
+      "A": "Logo and navigation bar",
+      "B": "Footer",
+      "C": "Comments section",
+      "D": "Download link"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 63,
+    "question": "What makes a website easy to use?",
+    "options": {
+      "A": "Complicated layout",
+      "B": "Broken links",
+      "C": "Clear navigation",
+      "D": "Small text"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 64,
+    "question": "What makes a website difficult to use?",
+    "options": {
+      "A": "Fast loading",
+      "B": "Confusing layout",
+      "C": "Good design",
+      "D": "Clear text"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 65,
+    "question": "What makes a website interesting?",
+    "options": {
+      "A": "Slow loading",
+      "B": "Outdated content",
+      "C": "Interactive features and visuals",
+      "D": "Lack of images"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 66,
+    "question": "What does FAQ stand for?",
+    "options": {
+      "A": "Fast Asked Queries",
+      "B": "Frequently Asked Questions",
+      "C": "Free Answer Questions",
+      "D": "Frequently Answered Quotes"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 67,
+    "question": "Which of these could be on a website’s navigation menu?",
+    "options": {
+      "A": "Blog",
+      "B": "Ceiling",
+      "C": "Background",
+      "D": "Update"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 68,
+    "question": "“Content” means:",
+    "options": {
+      "A": "Data shown on a website",
+      "B": "The computer hardware",
+      "C": "The domain name",
+      "D": "The password"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 69,
+    "question": "What is the purpose of the “Contact Us” page?",
+    "options": {
+      "A": "To download files",
+      "B": "To contact the website owners",
+      "C": "To buy products",
+      "D": "To play videos"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 70,
+    "question": "Which adjective best describes a website that loads quickly and works well?",
+    "options": {
+      "A": "Dynamic",
+      "B": "Broken",
+      "C": "Static",
+      "D": "Hidden"
+    },
+    "correct_answer": "C",
+    "explanation": "Trong ngữ cảnh so sánh, Static website thường load nhanh hơn Dynamic website."
+  },
+  {
+    "id": 71,
+    "question": "What is coding?",
+    "options": {
+      "A": "Writing computer programs",
+      "B": "Reading user manuals",
+      "C": "Managing websites",
+      "D": "Debugging networks"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 72,
+    "question": "Which of these is a programming language?",
+    "options": {
+      "A": "Excel",
+      "B": "Python",
+      "C": "Chrome",
+      "D": "Facebook"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 73,
+    "question": "Which programming language is beginner-friendly?",
+    "options": {
+      "A": "C++",
+      "B": "Python",
+      "C": "Assembly",
+      "D": "Rust"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 74,
+    "question": "What does “constant” mean in coding?",
+    "options": {
+      "A": "A value that changes",
+      "B": "A value that never changes",
+      "C": "A temporary variable",
+      "D": "A condition"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 75,
+    "question": "If a = 3 and b = 2, what is x after x = a + b?",
+    "options": {
+      "A": "6",
+      "B": "4",
+      "C": "5",
+      "D": "3"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 76,
+    "question": "What happens when you “debug” a program?",
+    "options": {
+      "A": "You delete the project",
+      "B": "You fix the errors",
+      "C": "You rewrite the entire code",
+      "D": "You upload it online"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 77,
+    "question": "Which of these actions opens a file?",
+    "options": {
+      "A": "Single click",
+      "B": "Double click",
+      "C": "Right click",
+      "D": "Off switch"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 78,
+    "question": "What does the “Maximize” button do?",
+    "options": {
+      "A": "Closes the window",
+      "B": "Makes the window fill the screen",
+      "C": "Minimizes the window",
+      "D": "Shuts down the computer"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 79,
+    "question": "What does a right-click usually do?",
+    "options": {
+      "A": "Opens a menu",
+      "B": "Sends a message",
+      "C": "Closes the window",
+      "D": "Runs a program"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 80,
+    "question": "The “Save” button makes the computer:",
+    "options": {
+      "A": "Store your work",
+      "B": "Print your file",
+      "C": "Delete the project",
+      "D": "Close the window"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 81,
+    "question": "What is a Gantt chart used for?",
+    "options": {
+      "A": "Designing websites",
+      "B": "Managing project time and tasks",
+      "C": "Writing code",
+      "D": "Sending emails"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 82,
+    "question": "What does “milestone” mean in a project?",
+    "options": {
+      "A": "A big stone",
+      "B": "A delay",
+      "C": "A significant stage or goal",
+      "D": "A programming term"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 83,
+    "question": "“Alpha testing” is done by:",
+    "options": {
+      "A": "Customers",
+      "B": "Developers inside the company",
+      "C": "Random users",
+      "D": "The media"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 84,
+    "question": "“Beta testing” is done by:",
+    "options": {
+      "A": "The developers",
+      "B": "Testers outside the company",
+      "C": "Machines",
+      "D": "Marketing team"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 85,
+    "question": "The purpose of beta testing is to:",
+    "options": {
+      "A": "Find real-world issues",
+      "B": "Write new code",
+      "C": "Approve the plan",
+      "D": "Create a document"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 86,
+    "question": "What does “feedback” mean?",
+    "options": {
+      "A": "Error",
+      "B": "Comment or reaction from users",
+      "C": "Code instruction",
+      "D": "Hardware component"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 87,
+    "question": "What is a “release candidate”?",
+    "options": {
+      "A": "Early test version before final release",
+      "B": "First design sketch",
+      "C": "Final bug report",
+      "D": "Customer approval form"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 88,
+    "question": "What comes after beta testing?",
+    "options": {
+      "A": "Alpha testing",
+      "B": "Release candidate",
+      "C": "Planning",
+      "D": "Debugging"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 89,
+    "question": "Why is feedback important?",
+    "options": {
+      "A": "It helps improve the product",
+      "B": "It delays development",
+      "C": "It causes more bugs",
+      "D": "It is used only for marketing"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 90,
+    "question": "What does “development” mean?",
+    "options": {
+      "A": "Stopping a project",
+      "B": "Improving or creating something new",
+      "C": "Deleting data",
+      "D": "Debugging code"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 91,
+    "question": "The customer checks and approves the final version ______ the code is tested.",
+    "options": {
+      "A": "because",
+      "B": "after",
+      "C": "before",
+      "D": "while"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 92,
+    "question": "Programmers write the code ______ the specifications.",
+    "options": {
+      "A": "according to",
+      "B": "because of",
+      "C": "instead of",
+      "D": "without"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 93,
+    "question": "The program ______ tested before release.",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "be",
+      "D": "was"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 94,
+    "question": "A dynamic website ______ videos and images.",
+    "options": {
+      "A": "includes",
+      "B": "include",
+      "C": "included",
+      "D": "including"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 95,
+    "question": "Useful PDFs can be ______ from this website.",
+    "options": {
+      "A": "download",
+      "B": "downloading",
+      "C": "downloaded",
+      "D": "downloads"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 96,
+    "question": "A problem ______ found in the system.",
+    "options": {
+      "A": "are",
+      "B": "is",
+      "C": "was",
+      "D": "were"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 97,
+    "question": "The specification document ______ by the client.",
+    "options": {
+      "A": "check",
+      "B": "is checking",
+      "C": "is checked",
+      "D": "checked"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 98,
+    "question": "The user interface should be ______ and easy to understand.",
+    "options": {
+      "A": "confuse",
+      "B": "confusing",
+      "C": "clear",
+      "D": "bored"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 99,
+    "question": "When you click “Send”, the email ______ to the receiver.",
+    "options": {
+      "A": "sends",
+      "B": "is sent",
+      "C": "sending",
+      "D": "was sending"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 100,
+    "question": "A website becomes difficult to use if the layout is ______.",
+    "options": {
+      "A": "confusing",
+      "B": "interesting",
+      "C": "clear",
+      "D": "useful"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 101,
+    "question": "When a company introduces new technology, why is user training important?",
+    "options": {
+      "A": "It increases errors.",
+      "B": "It helps users work efficiently.",
+      "C": "It wastes time.",
+      "D": "It reduces communication."
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 102,
+    "question": "What is one advantage of e-learning?",
+    "options": {
+      "A": "It requires travel.",
+      "B": "It allows flexible study time.",
+      "C": "It’s more expensive.",
+      "D": "It’s less convenient."
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 103,
+    "question": "A smartphone is:",
+    "options": {
+      "A": "A device used only for calls.",
+      "B": "A type of mobile phone that can also use data.",
+      "C": "A desktop computer.",
+      "D": "A server machine."
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 104,
+    "question": "A threaded view in email helps users:",
+    "options": {
+      "A": "Delete old messages automatically.",
+      "B": "See all messages in the same conversation grouped together.",
+      "C": "Filter spam emails.",
+      "D": "Print messages."
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 105,
+    "question": "Tagging means:",
+    "options": {
+      "A": "Adding keywords to make files easier to find.",
+      "B": "Deleting unnecessary data.",
+      "C": "Saving files to a backup.",
+      "D": "Renaming folders."
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 106,
+    "question": "An announcement is:",
+    "options": {
+      "A": "A private chat.",
+      "B": "An important message for many people.",
+      "C": "A text message between two users.",
+      "D": "A video conference."
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 107,
+    "question": "Policies and procedures are:",
+    "options": {
+      "A": "Company rules and standard ways of doing things.",
+      "B": "Employee emails.",
+      "C": "Personal data sheets.",
+      "D": "Software settings."
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 108,
+    "question": "Syncing means:",
+    "options": {
+      "A": "Making data match in two or more devices.",
+      "B": "Deleting old data.",
+      "C": "Uploading photos to a cloud.",
+      "D": "Sending an email."
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 109,
+    "question": "Instant messaging is:",
+    "options": {
+      "A": "Sending messages that arrive immediately.",
+      "B": "Writing long reports.",
+      "C": "Attaching files to emails.",
+      "D": "Making phone calls."
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 110,
+    "question": "Archiving files means:",
+    "options": {
+      "A": "Deleting them permanently.",
+      "B": "Saving them in a special place for future use.",
+      "C": "Editing them.",
+      "D": "Sharing them online."
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 111,
+    "question": "Which tool is best for short written conversations online?",
+    "options": {
+      "A": "Instant messaging.",
+      "B": "Email.",
+      "C": "Video calls.",
+      "D": "Announcements."
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 112,
+    "question": "What happens when data is synced between devices?",
+    "options": {
+      "A": "The devices lose data.",
+      "B": "The same information appears in both places.",
+      "C": "Only one device keeps the data.",
+      "D": "Data becomes unreadable."
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 113,
+    "question": "Which of the following is an example of tagging?",
+    "options": {
+      "A": "Adding “#project” to a document name.",
+      "B": "Sending an attachment.",
+      "C": "Printing a file.",
+      "D": "Copying data to USB."
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 114,
+    "question": "Which statement about threaded view is TRUE?",
+    "options": {
+      "A": "It helps users follow the flow of conversation easily.",
+      "B": "It hides all previous messages.",
+      "C": "It deletes old threads.",
+      "D": "It groups messages by sender name."
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 115,
+    "question": "The purpose of policies and procedures is to:",
+    "options": {
+      "A": "Ensure consistency and efficiency in work.",
+      "B": "Make tasks more complicated.",
+      "C": "Hide company rules.",
+      "D": "Encourage random actions."
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 116,
+    "question": "What should employees do after receiving a company announcement?",
+    "options": {
+      "A": "Ignore it.",
+      "B": "Read and follow the information.",
+      "C": "Delete it immediately.",
+      "D": "Reply with emojis."
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 117,
+    "question": "Which technology allows people to work from two locations at once?",
+    "options": {
+      "A": "Syncing.",
+      "B": "Archiving.",
+      "C": "Tagging.",
+      "D": "Printing."
+    },
+    "correct_answer": "A",
+    "explanation": "Syncing (đồng bộ hóa) giúp dữ liệu được cập nhật ở cả 2 nơi, cho phép làm việc linh hoạt."
+  },
+  {
+    "id": 118,
+    "question": "E-learning helps employees because:",
+    "options": {
+      "A": "It limits access to information.",
+      "B": "It allows self-paced learning.",
+      "C": "It requires teachers to travel.",
+      "D": "It blocks online communication."
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 119,
+    "question": "A smartphone can perform all these functions EXCEPT:",
+    "options": {
+      "A": "Browsing the Internet.",
+      "B": "Making phone calls.",
+      "C": "Sending emails.",
+      "D": "Hosting a website."
+    },
+    "correct_answer": "D",
+    "explanation": "Dù smartphone rất mạnh, việc 'hosting a website' (làm máy chủ web) không phải là chức năng thông thường của nó."
+  },
+  {
+    "id": 120,
+    "question": "Which activity is an example of archiving?",
+    "options": {
+      "A": "Storing last year’s reports in a backup folder.",
+      "B": "Deleting all old messages.",
+      "C": "Writing a new policy.",
+      "D": "Uploading a selfie."
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 121,
+    "question": "Policies tell employees:",
+    "options": {
+      "A": "How to behave and what actions to take.",
+      "B": "How to use only personal devices.",
+      "C": "Where to find lost files.",
+      "D": "How to design websites."
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 122,
+    "question": "Why is instant messaging popular at work?",
+    "options": {
+      "A": "It allows fast, informal communication.",
+      "B": "It takes a long time to deliver messages.",
+      "C": "It replaces the company’s email system entirely.",
+      "D": "It hides the sender’s name."
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 123,
+    "question": "What should you include in an announcement?",
+    "options": {
+      "A": "Clear, relevant information for everyone.",
+      "B": "Private jokes.",
+      "C": "Personal opinions.",
+      "D": "Irrelevant data."
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 124,
+    "question": "Which of the following is NOT a benefit of syncing?",
+    "options": {
+      "A": "Having the same data everywhere.",
+      "B": "Saving time when updating information.",
+      "C": "Reducing mistakes from outdated files.",
+      "D": "Making devices disconnected."
+    },
+    "correct_answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 125,
+    "question": "When you archive an email, you usually:",
+    "options": {
+      "A": "Keep it for reference but remove it from the inbox.",
+      "B": "Delete it forever.",
+      "C": "Send it again.",
+      "D": "Mark it as unread."
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 126,
+    "question": "Tagging is helpful in:",
+    "options": {
+      "A": "Organizing and finding content quickly.",
+      "B": "Deleting data permanently.",
+      "C": "Changing file format.",
+      "D": "Compressing files."
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 127,
+    "question": "A threaded view in chat helps users:",
+    "options": {
+      "A": "Follow the full conversation easily.",
+      "B": "Hide earlier replies.",
+      "C": "Delete all threads.",
+      "D": "Randomize messages."
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 128,
+    "question": "A company’s policy might include:",
+    "options": {
+      "A": "How to handle customer data.",
+      "B": "Personal social media rules.",
+      "C": "How to watch movies online.",
+      "D": "Where to park your car at home."
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 129,
+    "question": "What is a procedure?",
+    "options": {
+      "A": "A step-by-step way of doing something correctly.",
+      "B": "A random idea.",
+      "C": "An unrelated policy.",
+      "D": "An email subject."
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 130,
+    "question": "Instant messaging is most useful when:",
+    "options": {
+      "A": "Quick communication is needed.",
+      "B": "Writing formal reports.",
+      "C": "Scheduling annual meetings.",
+      "D": "Sending confidential documents."
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 131,
+    "question": "Which device allows you to sync contacts and calendars?",
+    "options": {
+      "A": "Smartphone.",
+      "B": "Printer.",
+      "C": "Scanner.",
+      "D": "Monitor."
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 132,
+    "question": "Which phrase means \"save for later use\"?",
+    "options": {
+      "A": "Archive.",
+      "B": "Delete.",
+      "C": "Edit.",
+      "D": "Paste."
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 133,
+    "question": "What happens when two calendars are synced?",
+    "options": {
+      "A": "Both show the same appointments.",
+      "B": "One calendar disappears.",
+      "C": "The events are deleted.",
+      "D": "They become locked."
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 134,
+    "question": "Which statement is TRUE about policies and procedures?",
+    "options": {
+      "A": "They help maintain company standards.",
+      "B": "They confuse employees.",
+      "C": "They reduce communication.",
+      "D": "They are personal notes."
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 135,
+    "question": "Which form of communication is most formal?",
+    "options": {
+      "A": "Announcement email.",
+      "B": "Instant message.",
+      "C": "Text chat.",
+      "D": "Voice note."
+    },
+    "correct_answer": "A",
+    "explanation": "Trong môi trường doanh nghiệp, email thông báo (Announcement email) mang tính chính thức cao nhất trong các lựa chọn."
+  },
+  {
+    "id": 136,
+    "question": "A smartphone can connect to:",
+    "options": {
+      "A": "The Internet.",
+      "B": "Only local printers.",
+      "C": "Only wired networks.",
+      "D": "None of the above."
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 137,
+    "question": "Why is e-learning cost-effective?",
+    "options": {
+      "A": "It reduces travel and material costs.",
+      "B": "It requires printed books.",
+      "C": "It needs large classrooms.",
+      "D": "It involves hotel fees."
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 138,
+    "question": "Archiving is important because:",
+    "options": {
+      "A": "It keeps data safe and organized.",
+      "B": "It deletes useful files.",
+      "C": "It hides information forever.",
+      "D": "It reduces backups."
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 139,
+    "question": "When you tag a document, you:",
+    "options": {
+      "A": "Add a label or keyword.",
+      "B": "Move it to trash.",
+      "C": "Print it.",
+      "D": "Share it via chat."
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 140,
+    "question": "What does threaded mean in “threaded view”?",
+    "options": {
+      "A": "Messages are connected like a thread.",
+      "B": "Emails are deleted.",
+      "C": "Data is synced.",
+      "D": "Files are tagged."
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 141,
+    "question": "A company announcement might include:",
+    "options": {
+      "A": "News about software updates.",
+      "B": "A personal diary.",
+      "C": "A private joke.",
+      "D": "Irrelevant ads."
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 142,
+    "question": "Which of the following best defines syncing?",
+    "options": {
+      "A": "Updating information across devices.",
+      "B": "Printing documents.",
+      "C": "Copying photos manually.",
+      "D": "Deleting old files."
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 143,
+    "question": "Why are policies and procedures necessary?",
+    "options": {
+      "A": "They create clear expectations and consistency.",
+      "B": "They slow down operations.",
+      "C": "They confuse new staff.",
+      "D": "They replace teamwork."
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 144,
+    "question": "Instant messaging differs from email because:",
+    "options": {
+      "A": "It is faster and more direct.",
+      "B": "It always includes attachments.",
+      "C": "It is slower.",
+      "D": "It requires formal writing."
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 145,
+    "question": "What is the opposite of archiving?",
+    "options": {
+      "A": "Deleting.",
+      "B": "Saving.",
+      "C": "Tagging.",
+      "D": "Syncing."
+    },
+    "correct_answer": "A",
+    "explanation": "Archiving là lưu trữ để dùng sau này, Deleting là xóa bỏ hoàn toàn (ngược lại)."
+  },
+  {
+    "id": 146,
+    "question": "Which sentence uses “sync” correctly?",
+    "options": {
+      "A": "I synced my phone with my laptop.",
+      "B": "I sync a message to delete it.",
+      "C": "I sync my old files into trash.",
+      "D": "I sync my battery."
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 147,
+    "question": "Which system allows group conversation in real time?",
+    "options": {
+      "A": "Instant messaging.",
+      "B": "Email.",
+      "C": "Printing.",
+      "D": "Filing."
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 148,
+    "question": "When tagging a photo, you might:",
+    "options": {
+      "A": "Add “#holiday2025” to help find it later.",
+      "B": "Delete it.",
+      "C": "Archive it.",
+      "D": "Move it to trash."
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 149,
+    "question": "Which of these is a policy?",
+    "options": {
+      "A": "“All employees must use secure passwords.”",
+      "B": "“Let’s chat during lunch.”",
+      "C": "“My favorite color is blue.”",
+      "D": "“I’ll tag my pictures.”"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 150,
+    "question": "A procedure might explain:",
+    "options": {
+      "A": "How to back up company files step by step.",
+      "B": "What your favorite app is.",
+      "C": "How to play music.",
+      "D": "Why messages are deleted."
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 151,
+    "question": "What is the main purpose of a web hosting service?",
+    "options": {
+      "A": "To design websites",
+      "B": "To store and serve website data on the internet",
+      "C": "To create email accounts",
+      "D": "To buy domain names"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 152,
+    "question": "Which of the following is NOT a common type of web hosting?",
+    "options": {
+      "A": "Shared hosting",
+      "B": "Cloud hosting",
+      "C": "Dedicated hosting",
+      "D": "Barcode hosting"
+    },
+    "correct_answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 153,
+    "question": "Shared hosting is best for _______.",
+    "options": {
+      "A": "Large corporations with heavy traffic",
+      "B": "Beginners and small websites",
+      "C": "Real-time gaming servers",
+      "D": "Mobile app development only"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 154,
+    "question": "Which factor is most important for a fast-loading website?",
+    "options": {
+      "A": "Server speed and uptime",
+      "B": "Logo design",
+      "C": "Font style",
+      "D": "Number of social media accounts"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 155,
+    "question": "The word uptime refers to _______.",
+    "options": {
+      "A": "The time needed to upload files",
+      "B": "How often the server is available and running",
+      "C": "The speed of the internet provider",
+      "D": "The cost of the hosting plan"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 156,
+    "question": "Which hosting plan usually provides a private server for one customer?",
+    "options": {
+      "A": "Shared hosting",
+      "B": "VPS hosting",
+      "C": "Dedicated hosting",
+      "D": "Free hosting"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 157,
+    "question": "Why is technical support important when choosing a host?",
+    "options": {
+      "A": "It ensures help is available if problems occur",
+      "B": "It gives free advertising",
+      "C": "It provides free software",
+      "D": "It lowers electricity bills"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 158,
+    "question": "SSL certificates are mainly used to _______.",
+    "options": {
+      "A": "Speed up page loading",
+      "B": "Secure data and enable HTTPS",
+      "C": "Reduce web hosting cost",
+      "D": "Increase website color options"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 159,
+    "question": "Which of the following is a popular web hosting company?",
+    "options": {
+      "A": "Photoshop",
+      "B": "Bluehost",
+      "C": "Excel",
+      "D": "Illustrator"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 160,
+    "question": "What does “bandwidth” in hosting mean?",
+    "options": {
+      "A": "Total number of website pages",
+      "B": "Amount of data transferred between server and users",
+      "C": "The website’s design style",
+      "D": "Number of email addresses"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 161,
+    "question": "A website with thousands of daily visitors should choose _______.",
+    "options": {
+      "A": "Free hosting with ads",
+      "B": "Dedicated or cloud hosting",
+      "C": "Basic shared hosting",
+      "D": "Local computer hosting"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 162,
+    "question": "Why might a company choose cloud hosting?",
+    "options": {
+      "A": "It is less scalable",
+      "B": "It allows flexible resources and easy scaling",
+      "C": "It limits storage",
+      "D": "It prevents backups"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 163,
+    "question": "Which sentence correctly uses a comparative?",
+    "options": {
+      "A": "“This plan is more expensive than the basic plan.”",
+      "B": "“This plan expensive than basic.”",
+      "C": "“This plan is expensiver than basic.”",
+      "D": "“This plan the most expensive than basic.”"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 164,
+    "question": "Which of the following is an example of an IT cost?",
+    "options": {
+      "A": "Renting a car",
+      "B": "Purchasing cloud storage",
+      "C": "Buying vegetables",
+      "D": "Paying a sports coach"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 165,
+    "question": "Why is budgeting important for IT costs?",
+    "options": {
+      "A": "To avoid unexpected overspending",
+      "B": "To make websites look colorful",
+      "C": "To increase social media likes",
+      "D": "To reduce exercise time"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 166,
+    "question": "Which phrase is used to discuss money politely?",
+    "options": {
+      "A": "“How much does it cost?”",
+      "B": "“What is the price of this item?”",
+      "C": "“Could you tell me the price, please?”",
+      "D": "All of the above"
+    },
+    "correct_answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 167,
+    "question": "If a company pays a fixed fee every month, it is using a _______ pricing model.",
+    "options": {
+      "A": "One-time purchase",
+      "B": "Subscription",
+      "C": "Free trial",
+      "D": "Lifetime warranty"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 168,
+    "question": "Hardware expenses usually include _______.",
+    "options": {
+      "A": "Rent",
+      "B": "Servers and computers",
+      "C": "Coffee",
+      "D": "Transport tickets"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 169,
+    "question": "Software licenses are considered _______.",
+    "options": {
+      "A": "IT operating costs",
+      "B": "Furniture costs",
+      "C": "Employee benefits",
+      "D": "Travel expenses"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 170,
+    "question": "Reducing IT costs can be done by _______.",
+    "options": {
+      "A": "Buying unnecessary hardware",
+      "B": "Using open-source software",
+      "C": "Hiring more staff unnecessarily",
+      "D": "Ignoring maintenance"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 171,
+    "question": "Which term means “extra costs that are not planned”?",
+    "options": {
+      "A": "Fixed costs",
+      "B": "Variable costs",
+      "C": "Unexpected costs",
+      "D": "Free costs"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 172,
+    "question": "Which is a polite indirect question?",
+    "options": {
+      "A": "“Tell me the price now!”",
+      "B": "“Could you tell me how much it costs?”",
+      "C": "“Price?”",
+      "D": "“Give me the cost!”"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 173,
+    "question": "Items such as keyboards and monitors are called _______.",
+    "options": {
+      "A": "Consumables",
+      "B": "Peripherals",
+      "C": "Databases",
+      "D": "Servers"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 174,
+    "question": "The phrase “cost-effective” means _______.",
+    "options": {
+      "A": "Very expensive",
+      "B": "Good value for the money spent",
+      "C": "Free of charge",
+      "D": "Only for large companies"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 175,
+    "question": "Which of these is a one-time IT cost?",
+    "options": {
+      "A": "Monthly cloud service",
+      "B": "Annual domain renewal",
+      "C": "Buying a physical server",
+      "D": "Software subscription"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 176,
+    "question": "Why is product research important before buying technology?",
+    "options": {
+      "A": "To waste time",
+      "B": "To compare features and prices",
+      "C": "To avoid discounts",
+      "D": "To confuse sellers"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 177,
+    "question": "Which of the following is a feature?",
+    "options": {
+      "A": "Price per month",
+      "B": "Customer support 24/7",
+      "C": "Both A and B",
+      "D": "None"
+    },
+    "correct_answer": "B",
+    "explanation": "Feature (tính năng) là đặc điểm của sản phẩm/dịch vụ (như hỗ trợ 24/7). Price (giá) là chi phí, không phải tính năng."
+  },
+  {
+    "id": 178,
+    "question": "A polite indirect question when researching a product is:",
+    "options": {
+      "A": "“What’s the price?”",
+      "B": "“I want the price now!”",
+      "C": "“Could you explain the main features?”",
+      "D": "“Price list!”"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 179,
+    "question": "What is the main goal of comparing products?",
+    "options": {
+      "A": "To select the best option",
+      "B": "To make advertising",
+      "C": "To increase costs",
+      "D": "To reduce quality"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 180,
+    "question": "Which resource is commonly used for product research?",
+    "options": {
+      "A": "Social media reviews",
+      "B": "Official product websites",
+      "C": "Technology blogs",
+      "D": "All of the above"
+    },
+    "correct_answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 181,
+    "question": "A trial version of software allows you to _______.",
+    "options": {
+      "A": "Use the full product for free forever",
+      "B": "Test the product for a limited time",
+      "C": "Avoid paying forever",
+      "D": "Get free hardware"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 182,
+    "question": "Which question is suitable when researching a product?",
+    "options": {
+      "A": "“How does this compare to other brands?”",
+      "B": "“Why is it free?”",
+      "C": "“Where is the exit?”",
+      "D": "“Can you sing a song?”"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 183,
+    "question": "Which factor is NOT usually checked in product research?",
+    "options": {
+      "A": "Price",
+      "B": "Features",
+      "C": "Warranty",
+      "D": "Favorite color of the seller"
+    },
+    "correct_answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 184,
+    "question": "Reading user reviews helps you to _______.",
+    "options": {
+      "A": "Know real customer experiences",
+      "B": "Increase shipping cost",
+      "C": "Hide product information",
+      "D": "Pay more money"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 185,
+    "question": "A “pricing model” describes _______.",
+    "options": {
+      "A": "The shape of the product",
+      "B": "How the product is sold and paid for",
+      "C": "The location of the shop",
+      "D": "The product color"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 186,
+    "question": "Which of these is an advantage of indirect questions?",
+    "options": {
+      "A": "They sound more polite",
+      "B": "They take less time",
+      "C": "They are always cheaper",
+      "D": "They remove taxes"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 187,
+    "question": "If you say “Could you tell me if there is a discount?”, you are using _______.",
+    "options": {
+      "A": "Direct question",
+      "B": "Indirect question",
+      "C": "Imperative sentence",
+      "D": "Negative question"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 188,
+    "question": "When two products are compared, the word superlative is used to show _______.",
+    "options": {
+      "A": "Equality",
+      "B": "The highest degree (best, most expensive, etc.)",
+      "C": "A question",
+      "D": "Politeness only"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 189,
+    "question": "What is the first step in making a recommendation?",
+    "options": {
+      "A": "Identify the customer’s needs",
+      "B": "Choose the most expensive product",
+      "C": "Ignore customer questions",
+      "D": "Offer all products"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 190,
+    "question": "A good recommendation should be _______.",
+    "options": {
+      "A": "Clear and supported by facts",
+      "B": "Long and confusing",
+      "C": "Emotional only",
+      "D": "Based on rumors"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 191,
+    "question": "Which sentence uses a superlative correctly?",
+    "options": {
+      "A": "“This is the most reliable software in our list.”",
+      "B": "“This is reliabler software.”",
+      "C": "“This is more reliable than mostest.”",
+      "D": "“This is most reliable than other.”"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 192,
+    "question": "When recommending CAD software, which factor is most important?",
+    "options": {
+      "A": "File size",
+      "B": "Compatibility and features",
+      "C": "Music style",
+      "D": "Fashion trends"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 193,
+    "question": "A recommendation that matches the customer’s budget is called _______.",
+    "options": {
+      "A": "Cost-effective",
+      "B": "Unlimited",
+      "C": "Indirect",
+      "D": "Random"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 194,
+    "question": "Which expression politely introduces a recommendation?",
+    "options": {
+      "A": "“I suggest that you…”",
+      "B": "“You must buy this now!”",
+      "C": "“Take it or leave it!”",
+      "D": "“This is yours!”"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 195,
+    "question": "Why should you compare several products before recommending one?",
+    "options": {
+      "A": "To ensure the best choice for the user",
+      "B": "To waste time",
+      "C": "To confuse the buyer",
+      "D": "To raise the price"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 196,
+    "question": "When presenting a recommendation, visuals such as charts are useful because they _______.",
+    "options": {
+      "A": "Make the information clearer",
+      "B": "Increase product cost",
+      "C": "Hide the disadvantages",
+      "D": "Replace discussion"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 197,
+    "question": "Which phrase is used to give reasons in a recommendation?",
+    "options": {
+      "A": "“because it offers…”",
+      "B": "“however it’s free”",
+      "C": "“despite it’s good”",
+      "D": "“price!”"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 198,
+    "question": "What is a key difference between recommending and selling?",
+    "options": {
+      "A": "Recommending focuses on advice and needs",
+      "B": "Selling always ignores customer needs",
+      "C": "Recommending always gives discounts",
+      "D": "Selling is free"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 199,
+    "question": "A student recommending software to classmates should consider _______.",
+    "options": {
+      "A": "Price and ease of use",
+      "B": "Teacher’s favorite color",
+      "C": "Distance to the market",
+      "D": "Time of sunrise"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 200,
+    "question": "Which is the BEST closing statement in a recommendation presentation?",
+    "options": {
+      "A": "“In conclusion, this product meets all the requirements we discussed.”",
+      "B": "“Buy it now or regret it.”",
+      "C": "“I’m tired, let’s end.”",
+      "D": "“That’s all, maybe yes or no.”"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 201,
+    "question": "Which of the following means \"a set of data arranged in rows and columns\"?",
+    "options": {
+      "A": "Document",
+      "B": "Spreadsheet",
+      "C": "Database",
+      "D": "File"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 202,
+    "question": "Which term means \"a predefined calculation in a spreadsheet\"?",
+    "options": {
+      "A": "Formula",
+      "B": "Folder",
+      "C": "Chart",
+      "D": "Layout"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 203,
+    "question": "“Cell” in spreadsheet software refers to:",
+    "options": {
+      "A": "A file storage location",
+      "B": "An intersection of a row and a column",
+      "C": "A computer virus",
+      "D": "A network device"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 204,
+    "question": "If a file is \"saved in another folder by mistake\", what is the problem?",
+    "options": {
+      "A": "The file is missing",
+      "B": "The file is corrupted",
+      "C": "The file is renamed",
+      "D": "The file is locked"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 205,
+    "question": "Which of these is an error caused by typing \"SUMM\" instead of \"SUM\" in Excel?",
+    "options": {
+      "A": "Wrong formula",
+      "B": "Misplaced file",
+      "C": "Format error",
+      "D": "Syntax correct"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 206,
+    "question": "“Format cells” in Excel allows you to:",
+    "options": {
+      "A": "Change the text language",
+      "B": "Adjust the data type",
+      "C": "Translate formulas",
+      "D": "Lock cells"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 207,
+    "question": "In spreadsheets, what symbol usually starts a formula?",
+    "options": {
+      "A": "#",
+      "B": "@",
+      "C": "=",
+      "D": "$"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 208,
+    "question": "“Chose the wrong formula” results in:",
+    "options": {
+      "A": "An error message",
+      "B": "Incorrect results",
+      "C": "File loss",
+      "D": "No change"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 209,
+    "question": "Which key combination is used to save a file quickly?",
+    "options": {
+      "A": "Ctrl + P",
+      "B": "Ctrl + C",
+      "C": "Ctrl + S",
+      "D": "Ctrl + V"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 210,
+    "question": "\"Right-click\" means:",
+    "options": {
+      "A": "Use the right-hand to type",
+      "B": "Press the right mouse button",
+      "C": "Turn on the computer",
+      "D": "Switch tabs"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 211,
+    "question": "If a date appears as \"44204\" in Excel, the cell’s problem is:",
+    "options": {
+      "A": "Wrong file location",
+      "B": "Number formatting",
+      "C": "Misspelled function",
+      "D": "Missing data"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 212,
+    "question": "Which is a built-in Excel function?",
+    "options": {
+      "A": "PLUS",
+      "B": "SUM",
+      "C": "TOTALUP",
+      "D": "ADDUP"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 213,
+    "question": "\"Error message\" means:",
+    "options": {
+      "A": "Confirmation of success",
+      "B": "Warning or problem alert from software",
+      "C": "A type of file",
+      "D": "A saved backup"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 214,
+    "question": "In Excel, which menu lets you adjust date display format?",
+    "options": {
+      "A": "File",
+      "B": "View",
+      "C": "Format cells",
+      "D": "Insert"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 215,
+    "question": "“Drag and drop” means:",
+    "options": {
+      "A": "Move items using the mouse",
+      "B": "Install software",
+      "C": "Change formula type",
+      "D": "Rename a file"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 216,
+    "question": "Which tense is used to describe what a function does?",
+    "options": {
+      "A": "Present simple",
+      "B": "Present continuous",
+      "C": "Past simple",
+      "D": "Future simple"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 217,
+    "question": "Which tense describes past events in IT problem reports?",
+    "options": {
+      "A": "Present simple",
+      "B": "Present continuous",
+      "C": "Past simple",
+      "D": "Future simple"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 218,
+    "question": "“I ______ the wrong formula and got incorrect results.”",
+    "options": {
+      "A": "choose",
+      "B": "chose",
+      "C": "chosen",
+      "D": "choosing"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 219,
+    "question": "“The spreadsheet ______ an error message every time I try to run it.”",
+    "options": {
+      "A": "display",
+      "B": "displays",
+      "C": "displayed",
+      "D": "displayes"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 220,
+    "question": "“Could you help me?” – This is an example of:",
+    "options": {
+      "A": "Offering help",
+      "B": "Requesting help",
+      "C": "Giving instructions",
+      "D": "Agreeing"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 221,
+    "question": "Which phrase politely offers assistance?",
+    "options": {
+      "A": "“Yes, sure. What’s the problem?”",
+      "B": "“Do it yourself.”",
+      "C": "“Not now.”",
+      "D": "“No way.”"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 222,
+    "question": "“I think you ______ the function in the formula.”",
+    "options": {
+      "A": "misspelt",
+      "B": "misspell",
+      "C": "misspelling",
+      "D": "misspells"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 223,
+    "question": "“You need to ______ on the cell, select ‘Format cells’.”",
+    "options": {
+      "A": "left-click",
+      "B": "right-click",
+      "C": "double-tap",
+      "D": "swipe"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 224,
+    "question": "“The file was ______ in another folder by mistake.”",
+    "options": {
+      "A": "save",
+      "B": "saved",
+      "C": "saving",
+      "D": "saves"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 225,
+    "question": "“You should select ______ from the menu to change the cell format.”",
+    "options": {
+      "A": "‘Format cells’",
+      "B": "‘Print’",
+      "C": "‘Open’",
+      "D": "‘Exit’"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 226,
+    "question": "In IT support, \"Let’s try this\" is:",
+    "options": {
+      "A": "Suggesting a solution",
+      "B": "Reporting an issue",
+      "C": "Refusing help",
+      "D": "Asking a question"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 227,
+    "question": "“Every time I try to open it, it gives me an error.” – The underlined part is:",
+    "options": {
+      "A": "Condition",
+      "B": "Cause and effect",
+      "C": "Opinion",
+      "D": "Request"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 228,
+    "question": "“By mistake” means:",
+    "options": {
+      "A": "On purpose",
+      "B": "Accidentally",
+      "C": "Carefully",
+      "D": "Slowly"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 229,
+    "question": "“Please click here” is in the:",
+    "options": {
+      "A": "Imperative form",
+      "B": "Past tense",
+      "C": "Future tense",
+      "D": "Present continuous"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 230,
+    "question": "“I can’t find the file” – This expresses:",
+    "options": {
+      "A": "A request",
+      "B": "A problem",
+      "C": "An instruction",
+      "D": "A solution"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 231,
+    "question": "If a user gets an error after typing a function name, you should:",
+    "options": {
+      "A": "Delete the spreadsheet",
+      "B": "Check for spelling mistakes",
+      "C": "Close the program",
+      "D": "Restart the computer"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 232,
+    "question": "When a file is in the wrong folder, first:",
+    "options": {
+      "A": "Delete it",
+      "B": "Search for it",
+      "C": "Rename it",
+      "D": "Lock it"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 233,
+    "question": "A cell showing ###### means:",
+    "options": {
+      "A": "Cell is empty",
+      "B": "Column is too narrow",
+      "C": "File is missing",
+      "D": "Function is wrong"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 234,
+    "question": "Which step comes before applying “Date” format?",
+    "options": {
+      "A": "Save the file",
+      "B": "Right-click on the cell",
+      "C": "Delete the cell",
+      "D": "Copy the data"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 235,
+    "question": "If a report says “typed in a formula → get an error message”, likely cause is:",
+    "options": {
+      "A": "Wrong file",
+      "B": "Formula syntax error",
+      "C": "Printer issue",
+      "D": "Network problem"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 236,
+    "question": "“Chose the wrong formula” could be fixed by:",
+    "options": {
+      "A": "Selecting a correct function",
+      "B": "Formatting the cell",
+      "C": "Changing the file location",
+      "D": "Printing the document"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 237,
+    "question": "When the date doesn’t display correctly, solution is:",
+    "options": {
+      "A": "Change date format",
+      "B": "Use CAPS LOCK",
+      "C": "Reinstall Excel",
+      "D": "Delete the cell"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 238,
+    "question": "Which problem is unrelated to spreadsheets?",
+    "options": {
+      "A": "Misspelled formula",
+      "B": "File saved in wrong folder",
+      "C": "Printer not working",
+      "D": "Wrong cell format"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 239,
+    "question": "An “error message” is most similar to:",
+    "options": {
+      "A": "A success alert",
+      "B": "A warning",
+      "C": "A file backup",
+      "D": "A shortcut key"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 240,
+    "question": "If you “roleplay the situation you heard”, you are:",
+    "options": {
+      "A": "Acting it out",
+      "B": "Writing it down",
+      "C": "Ignoring it",
+      "D": "Printing it"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 241,
+    "question": "“CTRL + Z” is used to:",
+    "options": {
+      "A": "Undo an action",
+      "B": "Save a file",
+      "C": "Close a program",
+      "D": "Copy text"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 242,
+    "question": "Which is NOT a spreadsheet application?",
+    "options": {
+      "A": "Microsoft Excel",
+      "B": "Google Sheets",
+      "C": "Adobe Photoshop",
+      "D": "LibreOffice Calc"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 243,
+    "question": "Which is a correct Excel date format?",
+    "options": {
+      "A": "12/08/2025",
+      "B": "2025-13-40",
+      "C": "8/8/25/PM",
+      "D": "August#12#2025"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 244,
+    "question": "If an error says “#NAME?”, this means:",
+    "options": {
+      "A": "Formula name is misspelled",
+      "B": "Cell is locked",
+      "C": "Wrong folder",
+      "D": "Column too narrow"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 245,
+    "question": "To troubleshoot a missing file, first:",
+    "options": {
+      "A": "Search the computer",
+      "B": "Reinstall the OS",
+      "C": "Format the disk",
+      "D": "Close the window"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 246,
+    "question": "Which is the best way to prevent saving in the wrong folder?",
+    "options": {
+      "A": "Always check save location",
+      "B": "Turn off autosave",
+      "C": "Use random folders",
+      "D": "Disable saving"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 247,
+    "question": "Which action is part of IT problem description?",
+    "options": {
+      "A": "Stating the problem clearly",
+      "B": "Avoiding details",
+      "C": "Giving unrelated info",
+      "D": "Skipping steps"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 248,
+    "question": "Which software feature allows you to apply a calculation automatically?",
+    "options": {
+      "A": "Formula",
+      "B": "Template",
+      "C": "Toolbar",
+      "D": "Layout"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 249,
+    "question": "“Get incorrect results” means:",
+    "options": {
+      "A": "Output is wrong",
+      "B": "File is missing",
+      "C": "Data is formatted",
+      "D": "Function runs correctly"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 250,
+    "question": "Which best describes “roleplay” in an IT class?",
+    "options": {
+      "A": "Practice real-life IT support conversations",
+      "B": "Write down IT theory",
+      "C": "Watch a video only",
+      "D": "Read silently"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 251,
+    "question": "What do people mainly use spreadsheets for?",
+    "options": {
+      "A": "Playing music",
+      "B": "Designing websites",
+      "C": "Organizing and analyzing data",
+      "D": "Drawing pictures"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 252,
+    "question": "Which of the following is a common spreadsheet program?",
+    "options": {
+      "A": "MySQL",
+      "B": "Microsoft Excel",
+      "C": "Oracle",
+      "D": "MongoDB"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 253,
+    "question": "Which function in Excel is used to add numbers together?",
+    "options": {
+      "A": "AVERAGE()",
+      "B": "SUM()",
+      "C": "COUNT()",
+      "D": "DIVIDE()"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 254,
+    "question": "Which function is used to calculate the mean value of a list?",
+    "options": {
+      "A": "MAX()",
+      "B": "MIN()",
+      "C": "AVERAGE()",
+      "D": "SUM()"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 255,
+    "question": "Teachers often use spreadsheets to:",
+    "options": {
+      "A": "Play games",
+      "B": "Track student performance",
+      "C": "Design software",
+      "D": "Build databases"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 256,
+    "question": "One difficulty users face with spreadsheets is:",
+    "options": {
+      "A": "Using simple formulas",
+      "B": "Entering data",
+      "C": "Creating pivot tables",
+      "D": "Opening the program"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 257,
+    "question": "In business, spreadsheets help with:",
+    "options": {
+      "A": "Financial planning",
+      "B": "Singing songs",
+      "C": "Installing hardware",
+      "D": "Driving cars"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 258,
+    "question": "Which of the following is NOT a use of spreadsheets?",
+    "options": {
+      "A": "Inventory management",
+      "B": "Budgeting",
+      "C": "Project management",
+      "D": "Cooking recipes"
+    },
+    "correct_answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 259,
+    "question": "What chart type is commonly created in spreadsheets?",
+    "options": {
+      "A": "Flowchart",
+      "B": "Organizational chart",
+      "C": "Pie chart",
+      "D": "Mind map"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 260,
+    "question": "What problem might occur if a formula is misspelt?",
+    "options": {
+      "A": "Wrong result",
+      "B": "Faster calculation",
+      "C": "No error",
+      "D": "Better accuracy"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 261,
+    "question": "If you save a file in another folder by mistake, what is the problem?",
+    "options": {
+      "A": "Need to retype data",
+      "B": "File not found in expected folder",
+      "C": "Computer crashes",
+      "D": "Formula error"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 262,
+    "question": "To format a date correctly in spreadsheets, you should:",
+    "options": {
+      "A": "Change font",
+      "B": "Use Format Cells → Date",
+      "C": "Copy-paste values",
+      "D": "Delete the formula"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 263,
+    "question": "Which of the following is a database program?",
+    "options": {
+      "A": "Excel",
+      "B": "Oracle",
+      "C": "Photoshop",
+      "D": "PowerPoint"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 264,
+    "question": "Which of these is NOT a database program?",
+    "options": {
+      "A": "MySQL",
+      "B": "PostgreSQL",
+      "C": "Microsoft Access",
+      "D": "Google Slides"
+    },
+    "correct_answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 265,
+    "question": "What is a database mainly used for?",
+    "options": {
+      "A": "Store and manage large amounts of data",
+      "B": "Playing music",
+      "C": "Sending emails",
+      "D": "Drawing charts"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 266,
+    "question": "A library uses a database to:",
+    "options": {
+      "A": "Play music",
+      "B": "Manage books and borrowing history",
+      "C": "Teach languages",
+      "D": "Print books"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 267,
+    "question": "What key uniquely identifies a record in a table?",
+    "options": {
+      "A": "Foreign key",
+      "B": "Duplicate key",
+      "C": "Primary key",
+      "D": "Secondary key"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 268,
+    "question": "Which of the following is an example of a database action?",
+    "options": {
+      "A": "Querying the database",
+      "B": "Formatting a chart",
+      "C": "Installing an app",
+      "D": "Drawing a picture"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 269,
+    "question": "In a company, databases are used to keep track of:",
+    "options": {
+      "A": "Employee songs",
+      "B": "Customer details and sales records",
+      "C": "Computer games",
+      "D": "TV shows"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 270,
+    "question": "Which term refers to a piece of information about a record?",
+    "options": {
+      "A": "Object",
+      "B": "Field",
+      "C": "Table",
+      "D": "Query"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 271,
+    "question": "Which term refers to a collection of fields about one entity?",
+    "options": {
+      "A": "Report",
+      "B": "Record",
+      "C": "Form",
+      "D": "Key"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 272,
+    "question": "Which is NOT a database object?",
+    "options": {
+      "A": "Form",
+      "B": "Report",
+      "C": "Chart",
+      "D": "Table"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 273,
+    "question": "To get information from a database, you:",
+    "options": {
+      "A": "Run a report",
+      "B": "Format a cell",
+      "C": "Write a poem",
+      "D": "Reboot computer"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 274,
+    "question": "Which of the following is NOT related to databases?",
+    "options": {
+      "A": "Retrieve",
+      "B": "Query",
+      "C": "Deploy",
+      "D": "Record"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 275,
+    "question": "Which of the following is a system administrator’s task?",
+    "options": {
+      "A": "Deploy new software",
+      "B": "Design databases",
+      "C": "Write commercial software",
+      "D": "Cook food"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 276,
+    "question": "Which of the following is NOT a system administrator’s task?",
+    "options": {
+      "A": "Look after network security",
+      "B": "Set up user accounts",
+      "C": "Work on a help desk",
+      "D": "Write software to sell"
+    },
+    "correct_answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 277,
+    "question": "Which task ensures users can log in securely?",
+    "options": {
+      "A": "Set permissions",
+      "B": "Reset passwords",
+      "C": "Check logs",
+      "D": "Install games"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 278,
+    "question": "To install software on many computers at once, admins:",
+    "options": {
+      "A": "Copy manually",
+      "B": "Deploy applications",
+      "C": "Use USBs",
+      "D": "Send emails"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 279,
+    "question": "To control who can access files, admins:",
+    "options": {
+      "A": "Set permissions",
+      "B": "Check logs",
+      "C": "Delete files",
+      "D": "Reboot computer"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 280,
+    "question": "Which action involves looking at system records?",
+    "options": {
+      "A": "Reset passwords",
+      "B": "Deploy software",
+      "C": "Check logs",
+      "D": "Format disk"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 281,
+    "question": "If a system is working without problems, it runs:",
+    "options": {
+      "A": "Smoothly",
+      "B": "Crash",
+      "C": "Out",
+      "D": "Error"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 282,
+    "question": "When a system suddenly stops working, it is a:",
+    "options": {
+      "A": "Smoothly",
+      "B": "Crash",
+      "C": "Restart",
+      "D": "Reset"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 283,
+    "question": "After fixing, the system is:",
+    "options": {
+      "A": "Broken",
+      "B": "Running again",
+      "C": "Out",
+      "D": "Error"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 284,
+    "question": "Which comes before deploying new software?",
+    "options": {
+      "A": "Training users",
+      "B": "Deleting files",
+      "C": "Rebooting network",
+      "D": "Resetting passwords"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 285,
+    "question": "Which action must you do before switching off a server?",
+    "options": {
+      "A": "Check users are not using it",
+      "B": "Reset passwords",
+      "C": "Deploy software",
+      "D": "Format hard drive"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 286,
+    "question": "What do you do after someone forgets a password?",
+    "options": {
+      "A": "Delete account",
+      "B": "Reset it",
+      "C": "Check logs",
+      "D": "Deploy software"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 287,
+    "question": "Before remote accessing someone’s computer, you should:",
+    "options": {
+      "A": "Do nothing",
+      "B": "Ask their permission",
+      "C": "Reboot it",
+      "D": "Format disk"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 288,
+    "question": "Which device is used for printing documents on paper?",
+    "options": {
+      "A": "Scanner",
+      "B": "Printer",
+      "C": "Monitor",
+      "D": "Projector"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 289,
+    "question": "Which device is used for typing words into a computer?",
+    "options": {
+      "A": "Mouse",
+      "B": "Keyboard",
+      "C": "Speaker",
+      "D": "Monitor"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 290,
+    "question": "Which device is used for moving the pointer and clicking?",
+    "options": {
+      "A": "Monitor",
+      "B": "Printer",
+      "C": "Mouse",
+      "D": "Speaker"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 291,
+    "question": "Which device is used for displaying images from the computer?",
+    "options": {
+      "A": "Monitor",
+      "B": "Printer",
+      "C": "Mouse",
+      "D": "Speaker"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 292,
+    "question": "Which device is for listening to music on your head?",
+    "options": {
+      "A": "Speakers",
+      "B": "Mouse",
+      "C": "Headphones",
+      "D": "Projector"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 293,
+    "question": "Which device stores large amounts of data externally?",
+    "options": {
+      "A": "Projector",
+      "B": "External hard drive",
+      "C": "Monitor",
+      "D": "Speaker"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 294,
+    "question": "Which device is used for video calls?",
+    "options": {
+      "A": "Scanner",
+      "B": "Webcam",
+      "C": "Printer",
+      "D": "Mouse"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 295,
+    "question": "Which device records your voice?",
+    "options": {
+      "A": "Speaker",
+      "B": "Microphone",
+      "C": "Printer",
+      "D": "Monitor"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 296,
+    "question": "Which device copies a paper document into the computer?",
+    "options": {
+      "A": "Printer",
+      "B": "Scanner",
+      "C": "Projector",
+      "D": "Keyboard"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 297,
+    "question": "A touch screen is:",
+    "options": {
+      "A": "Input",
+      "B": "Output",
+      "C": "Both",
+      "D": "Neither"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 298,
+    "question": "A projector is:",
+    "options": {
+      "A": "Input",
+      "B": "Output",
+      "C": "Both",
+      "D": "Neither"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 299,
+    "question": "A headset is:",
+    "options": {
+      "A": "Input",
+      "B": "Output",
+      "C": "Both",
+      "D": "Neither"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 300,
+    "question": "NAS (network attached storage) is:",
+    "options": {
+      "A": "Input",
+      "B": "Output",
+      "C": "Both",
+      "D": "Neither"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 301,
+    "question": "Which of these shows the URL of a website?",
+    "options": {
+      "A": "Refresh button",
+      "B": "Bookmark bar",
+      "C": "Web address",
+      "D": "Tab"
+    },
+    "correct_answer": "C",
+    "explanation": "Web address (địa chỉ web) hoặc thanh địa chỉ là nơi hiển thị URL."
+  },
+  {
+    "id": 302,
+    "question": "Which part shows your favorite websites?",
+    "options": {
+      "A": "Tab",
+      "B": "Back button",
+      "C": "Refresh button",
+      "D": "Bookmark bar"
+    },
+    "correct_answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 303,
+    "question": "Which button takes you to the previous page?",
+    "options": {
+      "A": "Back button",
+      "B": "Forward button",
+      "C": "Tab",
+      "D": "Refresh button"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 304,
+    "question": "Which opens a fresh copy of the page?",
+    "options": {
+      "A": "Back",
+      "B": "Forward",
+      "C": "Refresh",
+      "D": "Tab"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 305,
+    "question": "What is a “tab” in a browser?",
+    "options": {
+      "A": "A saved link",
+      "B": "A browser tools menu",
+      "C": "One open page inside a browser",
+      "D": "A type of button"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 306,
+    "question": "What is a “link”?",
+    "options": {
+      "A": "A saved page",
+      "B": "Text or button to go to another page",
+      "C": "A browser tab",
+      "D": "A password"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 307,
+    "question": "If you want to read news pages, you browse them. Which verb fits?",
+    "options": {
+      "A": "Follow",
+      "B": "Download",
+      "C": "Browse",
+      "D": "Enter"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 308,
+    "question": "What do you do to get a movie or music online?",
+    "options": {
+      "A": "Post",
+      "B": "Stream",
+      "C": "Enter",
+      "D": "Take part in"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 309,
+    "question": "If you upload a photo, you __________ it.",
+    "options": {
+      "A": "Stream",
+      "B": "Browse",
+      "C": "Post",
+      "D": "Download"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 310,
+    "question": "To get videos for offline use, you __________ them.",
+    "options": {
+      "A": "Take part in",
+      "B": "Download",
+      "C": "Post",
+      "D": "Stream"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 311,
+    "question": "When you comment on a post, you __________ a comment.",
+    "options": {
+      "A": "Stream",
+      "B": "Download",
+      "C": "Update",
+      "D": "Post"
+    },
+    "correct_answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 312,
+    "question": "To join an online webinar, you __________ part in it.",
+    "options": {
+      "A": "Stream",
+      "B": "Update",
+      "C": "Take",
+      "D": "Enter"
+    },
+    "correct_answer": "C",
+    "explanation": "Cụm từ 'Take part in' nghĩa là tham gia."
+  },
+  {
+    "id": 313,
+    "question": "To sign in to Facebook, you __________ your password.",
+    "options": {
+      "A": "Follow",
+      "B": "Enter",
+      "C": "Browse",
+      "D": "Post"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 314,
+    "question": "Which action would you use to change your profile picture?",
+    "options": {
+      "A": "Update status",
+      "B": "Enter password",
+      "C": "Download video",
+      "D": "Update picture"
+    },
+    "correct_answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 315,
+    "question": "A home network is usually a __________.",
+    "options": {
+      "A": "MAN",
+      "B": "WAN",
+      "C": "LAN",
+      "D": "VPN"
+    },
+    "correct_answer": "C",
+    "explanation": "LAN = Local Area Network, thường dùng cho gia đình hoặc văn phòng nhỏ."
+  },
+  {
+    "id": 316,
+    "question": "ATMs in cities often use a __________ network.",
+    "options": {
+      "A": "LAN",
+      "B": "WAN",
+      "C": "Mesh",
+      "D": "Ring"
+    },
+    "correct_answer": "B",
+    "explanation": "WAN = Wide Area Network, kết nối các địa điểm xa nhau như hệ thống ATM trong thành phố."
+  },
+  {
+    "id": 317,
+    "question": "A bus network has __________ cable connecting all devices.",
+    "options": {
+      "A": "One main",
+      "B": "Many wireless",
+      "C": "Separate lines",
+      "D": "Circle"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 318,
+    "question": "A star network connects all devices to a __________.",
+    "options": {
+      "A": "Cable",
+      "B": "Ring",
+      "C": "Central point",
+      "D": "Mesh"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 319,
+    "question": "In a mesh network, each device is connected to __________.",
+    "options": {
+      "A": "A central point",
+      "B": "Nothing",
+      "C": "All other devices",
+      "D": "One cable"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 320,
+    "question": "A ring network sends data in a __________ pattern.",
+    "options": {
+      "A": "Star",
+      "B": "Circular",
+      "C": "Bus",
+      "D": "Mesh"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 321,
+    "question": "Which is client software?",
+    "options": {
+      "A": "Web browser",
+      "B": "Router",
+      "C": "Wi Fi cable",
+      "D": "LAN switch"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 322,
+    "question": "Which program connects to a mail server to send emails?",
+    "options": {
+      "A": "Word",
+      "B": "Email program",
+      "C": "Printer driver",
+      "D": "Calculator app"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 323,
+    "question": "WhatsApp is an example of __________ software.",
+    "options": {
+      "A": "Client",
+      "B": "Network cable",
+      "C": "Server",
+      "D": "Peripheral"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 324,
+    "question": "A word processor is NOT usually __________ software.",
+    "options": {
+      "A": "Client",
+      "B": "Email",
+      "C": "Instant messaging",
+      "D": "Browser"
+    },
+    "correct_answer": "A",
+    "explanation": "Trong ngữ cảnh mạng (Network), Word processor là ứng dụng độc lập (standalone), không phải là phần mềm Client kết nối đến Server như Browser hay Email."
+  },
+  {
+    "id": 325,
+    "question": "Which mobile feature helps you see your route?",
+    "options": {
+      "A": "Camera",
+      "B": "GPS/Maps",
+      "C": "Calculator",
+      "D": "Calendar"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 326,
+    "question": "Which helps you quickly send messages to others?",
+    "options": {
+      "A": "Camera",
+      "B": "GPS",
+      "C": "Email & Messaging Apps",
+      "D": "USB port"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 327,
+    "question": "To take photos of products or documents, use the __________.",
+    "options": {
+      "A": "GPS",
+      "B": "Camera",
+      "C": "Calculator",
+      "D": "Calendar"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 328,
+    "question": "A technician receiving instructions via email saves __________ paper steps.",
+    "options": {
+      "A": "Two",
+      "B": "One",
+      "C": "No",
+      "D": "Many"
+    },
+    "correct_answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 329,
+    "question": "Mobile devices allow technicians to send digital __________.",
+    "options": {
+      "A": "Photos and signatures",
+      "B": "Cash",
+      "C": "Cups of coffee",
+      "D": "Cables"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 330,
+    "question": "A long battery life is important for __________ usage.",
+    "options": {
+      "A": "Short",
+      "B": "Long",
+      "C": "Nothing",
+      "D": "No time"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 331,
+    "question": "Which mobile feature helps with scheduling appointments?",
+    "options": {
+      "A": "GPS",
+      "B": "Torch",
+      "C": "Battery",
+      "D": "Calendar"
+    },
+    "correct_answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 332,
+    "question": "A USB recharger helps you charge via your __________.",
+    "options": {
+      "A": "Bike",
+      "B": "Laptop",
+      "C": "Printer",
+      "D": "LAN cable"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 333,
+    "question": "A torch on a phone is useful when __________ is off.",
+    "options": {
+      "A": "Wifi",
+      "B": "Button",
+      "C": "Electricity",
+      "D": "Screen"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 334,
+    "question": "First step to send an email: __________.",
+    "options": {
+      "A": "Click “Compose”",
+      "B": "Attach files",
+      "C": "Write body",
+      "D": "Enter Bcc"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 335,
+    "question": "After “Compose,” you fill in __________.",
+    "options": {
+      "A": "Trash",
+      "B": "Subject",
+      "C": "Wi Fi",
+      "D": "Text"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 336,
+    "question": "Before sending, always __________ your email.",
+    "options": {
+      "A": "Forward",
+      "B": "Blind copy",
+      "C": "Delete",
+      "D": "Check spelling"
+    },
+    "correct_answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 337,
+    "question": "To add a file, use the __________ button.",
+    "options": {
+      "A": "Spell checker",
+      "B": "Delete",
+      "C": "Attachment",
+      "D": "Copy"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 338,
+    "question": "Where do you put recipients' addresses?",
+    "options": {
+      "A": "Subject line",
+      "B": "To field",
+      "C": "Bcc",
+      "D": "Spell checker"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 339,
+    "question": "Where do you put hidden recipients?",
+    "options": {
+      "A": "Subject",
+      "B": "Cc",
+      "C": "Bcc",
+      "D": "Body"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 340,
+    "question": "Which button sends the message?",
+    "options": {
+      "A": "Delete",
+      "B": "Send",
+      "C": "Compose",
+      "D": "Save"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 341,
+    "question": "\"Uptime\" measures how long a service stays __________.",
+    "options": {
+      "A": "Offline",
+      "B": "Online without interruption",
+      "C": "Deleted",
+      "D": "Slow"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 342,
+    "question": "\"Bandwidth\" refers to how much __________ moves through a network.",
+    "options": {
+      "A": "Data",
+      "B": "People",
+      "C": "Batteries",
+      "D": "Tasks"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 343,
+    "question": "Every device on the internet has a unique __________ address.",
+    "options": {
+      "A": "Web",
+      "B": "IP",
+      "C": "Mesh",
+      "D": "User"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 344,
+    "question": "OCR stands for Optical Character __________.",
+    "options": {
+      "A": "Recognition",
+      "B": "Reception",
+      "C": "Reboot",
+      "D": "Router"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 345,
+    "question": "An accelerometer helps detect __________ movement in mobile devices.",
+    "options": {
+      "A": "Network",
+      "B": "Physical",
+      "C": "Email",
+      "D": "Browser"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 346,
+    "question": "To customize a device means to __________ settings.",
+    "options": {
+      "A": "Ignore",
+      "B": "Press",
+      "C": "Change",
+      "D": "Delete"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 347,
+    "question": "A tag in software often shows __________.",
+    "options": {
+      "A": "Emails",
+      "B": "Locations or keywords",
+      "C": "Virus",
+      "D": "Battery life"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 348,
+    "question": "“Record / data” refers to any __________ saved by a device.",
+    "options": {
+      "A": "Message",
+      "B": "Information",
+      "C": "Song",
+      "D": "Tab"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 349,
+    "question": "“Report” is a document that gives __________ about something.",
+    "options": {
+      "A": "Directions",
+      "B": "Information",
+      "C": "A picture",
+      "D": "A password"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 350,
+    "question": "“Exactly” means __________.",
+    "options": {
+      "A": "Slightly",
+      "B": "Precisely",
+      "C": "Loudly",
+      "D": "Quickly"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 351,
+    "question": "Which of the following is a peripheral device?",
+    "options": {
+      "A": "CPU",
+      "B": "RAM",
+      "C": "Mouse",
+      "D": "Motherboard"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 352,
+    "question": "Which of these is NOT a peripheral device?",
+    "options": {
+      "A": "Keyboard",
+      "B": "Monitor",
+      "C": "CPU",
+      "D": "Printer"
+    },
+    "correct_answer": "C",
+    "explanation": "CPU là thành phần xử lý trung tâm nằm bên trong thùng máy, không phải thiết bị ngoại vi."
+  },
+  {
+    "id": 353,
+    "question": "Which component is considered internal hardware?",
+    "options": {
+      "A": "Monitor",
+      "B": "Printer",
+      "C": "RAM",
+      "D": "Keyboard"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 354,
+    "question": "Which device is an example of internal storage?",
+    "options": {
+      "A": "Monitor",
+      "B": "SSD",
+      "C": "Mouse",
+      "D": "Printer"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 355,
+    "question": "What is an example of an external drive?",
+    "options": {
+      "A": "HDD",
+      "B": "SSD",
+      "C": "External hard disk",
+      "D": "RAM"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 356,
+    "question": "What does the prefix 'giga-' represent?",
+    "options": {
+      "A": "1,000",
+      "B": "1,000,000",
+      "C": "1,000,000,000",
+      "D": "1,000,000,000,000"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 357,
+    "question": "What does the prefix 'tera-' represent?",
+    "options": {
+      "A": "1,000,000",
+      "B": "1,000,000,000",
+      "C": "1,000,000,000,000",
+      "D": "1,000"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 358,
+    "question": "What does the prefix 'kilo-' represent?",
+    "options": {
+      "A": "10",
+      "B": "100",
+      "C": "1,000",
+      "D": "10,000"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 359,
+    "question": "What does the prefix 'nano-' represent?",
+    "options": {
+      "A": "0.001",
+      "B": "0.000001",
+      "C": "0.000000001",
+      "D": "0.1"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 360,
+    "question": "Which prefix means 1,000,000?",
+    "options": {
+      "A": "Micro",
+      "B": "Mega",
+      "C": "Nano",
+      "D": "Kilo"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 361,
+    "question": "Which port is commonly used for connecting external storage devices?",
+    "options": {
+      "A": "HDMI",
+      "B": "USB",
+      "C": "Ethernet",
+      "D": "Audio"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 362,
+    "question": "Which connector is used for wired network?",
+    "options": {
+      "A": "HDMI",
+      "B": "Ethernet",
+      "C": "USB",
+      "D": "VGA"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 363,
+    "question": "What is the function of a CPU socket?",
+    "options": {
+      "A": "Connect monitor",
+      "B": "Hold the CPU",
+      "C": "Provide internet",
+      "D": "Connect USB"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 364,
+    "question": "Which slot is used for memory modules?",
+    "options": {
+      "A": "SATA slot",
+      "B": "DIMM slot",
+      "C": "USB slot",
+      "D": "Audio slot"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 365,
+    "question": "Which socket is used to connect a hard drive?",
+    "options": {
+      "A": "USB",
+      "B": "SATA",
+      "C": "HDMI",
+      "D": "VGA"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 366,
+    "question": "What is the first step before installing a new operating system?",
+    "options": {
+      "A": "Partition hard drive",
+      "B": "Back up everything",
+      "C": "Insert product key",
+      "D": "Change boot drive"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 367,
+    "question": "What is the function of BIOS?",
+    "options": {
+      "A": "Controls startup",
+      "B": "Connects to Wi-Fi",
+      "C": "Stores files",
+      "D": "Runs apps"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 368,
+    "question": "Which key is usually pressed to enter BIOS?",
+    "options": {
+      "A": "F1",
+      "B": "F2",
+      "C": "F5",
+      "D": "Esc"
+    },
+    "correct_answer": "B",
+    "explanation": "Tùy máy, nhưng F2 (hoặc Del) là phổ biến nhất trong các lựa chọn này."
+  },
+  {
+    "id": 369,
+    "question": "What do you need to change in BIOS to boot from DVD?",
+    "options": {
+      "A": "Product key",
+      "B": "User accounts",
+      "C": "Boot drive",
+      "D": "Partition"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 370,
+    "question": "What is required to prove you own the software?",
+    "options": {
+      "A": "Password",
+      "B": "License terms",
+      "C": "Product key",
+      "D": "Serial cable"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 371,
+    "question": "Which device is used for making video calls?",
+    "options": {
+      "A": "Mouse",
+      "B": "Webcam",
+      "C": "Printer",
+      "D": "Speakers"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 372,
+    "question": "Which device is used for audio output?",
+    "options": {
+      "A": "Microphone",
+      "B": "Speakers",
+      "C": "Webcam",
+      "D": "Scanner"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 373,
+    "question": "Which device allows virtual reality experiences?",
+    "options": {
+      "A": "Monitor",
+      "B": "VR goggles",
+      "C": "Keyboard",
+      "D": "Mouse"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 374,
+    "question": "Which device records video?",
+    "options": {
+      "A": "Video camera",
+      "B": "Speakers",
+      "C": "Printer",
+      "D": "Mouse"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 375,
+    "question": "Which device is used to capture sound?",
+    "options": {
+      "A": "Microphone",
+      "B": "Speakers",
+      "C": "Monitor",
+      "D": "Mouse"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 376,
+    "question": "Which verb means 'start again'?",
+    "options": {
+      "A": "Restart",
+      "B": "Install",
+      "C": "Connect",
+      "D": "Partition"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 377,
+    "question": "Which action means 'disconnect a plug'?",
+    "options": {
+      "A": "Press",
+      "B": "Unplug",
+      "C": "Insert",
+      "D": "Switch on"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 378,
+    "question": "Which verb means 'put into'?",
+    "options": {
+      "A": "Insert",
+      "B": "Unplug",
+      "C": "Connect",
+      "D": "Press"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 379,
+    "question": "Which action means 'split a hard drive into parts'?",
+    "options": {
+      "A": "Partition",
+      "B": "Reboot",
+      "C": "Install",
+      "D": "Format"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 380,
+    "question": "Which action means 'copy data to keep it safe'?",
+    "options": {
+      "A": "Install",
+      "B": "Back up",
+      "C": "Unplug",
+      "D": "Restart"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 381,
+    "question": "Which of the following is a peripheral device?",
+    "options": {
+      "A": "CPU",
+      "B": "RAM",
+      "C": "Mouse",
+      "D": "Motherboard"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 382,
+    "question": "Which of these is NOT a peripheral device?",
+    "options": {
+      "A": "Keyboard",
+      "B": "Monitor",
+      "C": "CPU",
+      "D": "Printer"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 383,
+    "question": "Which component is considered internal hardware?",
+    "options": {
+      "A": "Monitor",
+      "B": "Printer",
+      "C": "RAM",
+      "D": "Keyboard"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 384,
+    "question": "Which device is an example of internal storage?",
+    "options": {
+      "A": "Monitor",
+      "B": "SSD",
+      "C": "Mouse",
+      "D": "Printer"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 385,
+    "question": "What is an example of an external drive?",
+    "options": {
+      "A": "HDD",
+      "B": "SSD",
+      "C": "External hard disk",
+      "D": "RAM"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 386,
+    "question": "What does the prefix 'giga-' represent?",
+    "options": {
+      "A": "1,000",
+      "B": "1,000,000",
+      "C": "1,000,000,000",
+      "D": "1,000,000,000,000"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 387,
+    "question": "What does the prefix 'tera-' represent?",
+    "options": {
+      "A": "1,000,000",
+      "B": "1,000,000,000",
+      "C": "1,000,000,000,000",
+      "D": "1,000"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 388,
+    "question": "What does the prefix 'kilo-' represent?",
+    "options": {
+      "A": "10",
+      "B": "100",
+      "C": "1,000",
+      "D": "10,000"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 389,
+    "question": "What does the prefix 'nano-' represent?",
+    "options": {
+      "A": "0.001",
+      "B": "0.000001",
+      "C": "0.000000001",
+      "D": "0.1"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 390,
+    "question": "Which prefix means 1,000,000?",
+    "options": {
+      "A": "Micro",
+      "B": "Mega",
+      "C": "Nano",
+      "D": "Kilo"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 391,
+    "question": "Which port is commonly used for connecting external storage devices?",
+    "options": {
+      "A": "HDMI",
+      "B": "USB",
+      "C": "Ethernet",
+      "D": "Audio"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 392,
+    "question": "Which connector is used for wired network?",
+    "options": {
+      "A": "HDMI",
+      "B": "Ethernet",
+      "C": "USB",
+      "D": "VGA"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 393,
+    "question": "What is the function of a CPU socket?",
+    "options": {
+      "A": "Connect monitor",
+      "B": "Hold the CPU",
+      "C": "Provide internet",
+      "D": "Connect USB"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 394,
+    "question": "Which slot is used for memory modules?",
+    "options": {
+      "A": "SATA slot",
+      "B": "DIMM slot",
+      "C": "USB slot",
+      "D": "Audio slot"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 395,
+    "question": "Which socket is used to connect a hard drive?",
+    "options": {
+      "A": "USB",
+      "B": "SATA",
+      "C": "HDMI",
+      "D": "VGA"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 396,
+    "question": "What is the first step before installing a new operating system?",
+    "options": {
+      "A": "Partition hard drive",
+      "B": "Back up everything",
+      "C": "Insert product key",
+      "D": "Change boot drive"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 397,
+    "question": "What is the function of BIOS?",
+    "options": {
+      "A": "Controls startup",
+      "B": "Connects to Wi-Fi",
+      "C": "Stores files",
+      "D": "Runs apps"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 398,
+    "question": "Which key is usually pressed to enter BIOS?",
+    "options": {
+      "A": "F1",
+      "B": "F2",
+      "C": "F5",
+      "D": "Esc"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 399,
+    "question": "What do you need to change in BIOS to boot from DVD?",
+    "options": {
+      "A": "Product key",
+      "B": "User accounts",
+      "C": "Boot drive",
+      "D": "Partition"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 400,
+    "question": "What is required to prove you own the software?",
+    "options": {
+      "A": "Password",
+      "B": "License terms",
+      "C": "Product key",
+      "D": "Serial cable"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 401,
+    "question": "A person who writes software is called a ________.",
+    "options": {
+      "A": "Project manager",
+      "B": "Software developer",
+      "C": "Database administrator",
+      "D": "Helpdesk supervisor"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 402,
+    "question": "Who is responsible for supervising a support team?",
+    "options": {
+      "A": "Support technician",
+      "B": "Helpdesk supervisor",
+      "C": "Systems analyst",
+      "D": "IT manager"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 403,
+    "question": "A database administrator mainly ________.",
+    "options": {
+      "A": "Plays games",
+      "B": "Maintains and manages databases",
+      "C": "Designs devices",
+      "D": "Provides entertainment apps"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 404,
+    "question": "A support technician does NOT usually:",
+    "options": {
+      "A": "Diagnose problems",
+      "B": "Install software",
+      "C": "Look after computers",
+      "D": "Supervise developers"
+    },
+    "correct_answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 405,
+    "question": "A systems analyst mainly ________.",
+    "options": {
+      "A": "Writes specifications",
+      "B": "Manages emails",
+      "C": "Creates video games",
+      "D": "Runs teleconferences"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 406,
+    "question": "Which company develops software?",
+    "options": {
+      "A": "Samsung",
+      "B": "Apple",
+      "C": "IBGroup",
+      "D": "Futachiba"
+    },
+    "correct_answer": "C",
+    "explanation": "Trong ngữ cảnh giáo trình tiếng Anh chuyên ngành IT thường gặp, IBGroup thường được ví dụ là công ty phần mềm."
+  },
+  {
+    "id": 407,
+    "question": "Microsoft Office Word is used for ________.",
+    "options": {
+      "A": "Presentations",
+      "B": "Writing",
+      "C": "Databases",
+      "D": "Games"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 408,
+    "question": "Microsoft Access is a ________ program.",
+    "options": {
+      "A": "Spreadsheet",
+      "B": "Database",
+      "C": "Operating system",
+      "D": "Presentation"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 409,
+    "question": "Which of these is an operating system?",
+    "options": {
+      "A": "Excel",
+      "B": "Mac OS",
+      "C": "PowerPoint",
+      "D": "Word"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 410,
+    "question": "Teleconference means ________.",
+    "options": {
+      "A": "Meeting in the same room",
+      "B": "Meeting by telephone",
+      "C": "Meeting online with video",
+      "D": "Meeting at lunch"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 411,
+    "question": "Videoconference is better than teleconference because ________.",
+    "options": {
+      "A": "It is always free",
+      "B": "You can see participants’ faces",
+      "C": "It is faster than email",
+      "D": "It needs no internet"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 412,
+    "question": "Which word means “a record of what people decided in a meeting”?",
+    "options": {
+      "A": "Agenda",
+      "B": "Minutes",
+      "C": "Chairperson",
+      "D": "Schedule"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 413,
+    "question": "“Agenda” in a meeting is ________.",
+    "options": {
+      "A": "A person controlling the meeting",
+      "B": "A list of points to discuss",
+      "C": "A video conference",
+      "D": "A record of decisions"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 414,
+    "question": "Which is NOT a hardware manufacturer?",
+    "options": {
+      "A": "Futachiba",
+      "B": "Dell",
+      "C": "Apple",
+      "D": "IBGroup"
+    },
+    "correct_answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 415,
+    "question": "Which sentence is correct?",
+    "options": {
+      "A": "Robert hardly ever visits other companies",
+      "B": "Robert visits hardly ever other companies",
+      "C": "Robert ever hardly visits companies",
+      "D": "Robert never hardly visits companies"
+    },
+    "correct_answer": "A",
+    "explanation": "Trạng từ tần suất (hardly ever) đứng trước động từ thường."
+  },
+  {
+    "id": 416,
+    "question": "Which rule is correct for computer rooms?",
+    "options": {
+      "A": "Drinks are allowed",
+      "B": "No food or drinks near computers",
+      "C": "Phones must be loud",
+      "D": "You can install any software"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 417,
+    "question": "Why must you not install new software without IT permission?",
+    "options": {
+      "A": "To save energy",
+      "B": "To avoid viruses",
+      "C": "To improve Wi-Fi",
+      "D": "To have fun"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 418,
+    "question": "Which is allowed during breaks only?",
+    "options": {
+      "A": "Streaming videos",
+      "B": "Installing software",
+      "C": "Playing games in class",
+      "D": "Connecting personal devices"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 419,
+    "question": "Why should you switch off your computer at night?",
+    "options": {
+      "A": "To prevent emails",
+      "B": "To save energy",
+      "C": "To reset the keyboard",
+      "D": "To make it faster"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 420,
+    "question": "“Only download files from trusted sources” helps to ________.",
+    "options": {
+      "A": "Increase speed",
+      "B": "Prevent malware",
+      "C": "Improve sound",
+      "D": "Change settings"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 421,
+    "question": "Which is an alphanumeric password?",
+    "options": {
+      "A": "123456",
+      "B": "abcdef",
+      "C": "abc123",
+      "D": "******"
+    },
+    "correct_answer": "C",
+    "explanation": "Alphanumeric có nghĩa là bao gồm cả chữ (alpha) và số (numeric)."
+  },
+  {
+    "id": 422,
+    "question": "Which activity is NOT allowed in the IT room?",
+    "options": {
+      "A": "Logging out after use",
+      "B": "Making personal phone calls",
+      "C": "Saving your work",
+      "D": "Reporting technical problems"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 423,
+    "question": "What should you do if you find a technical problem?",
+    "options": {
+      "A": "Ignore it",
+      "B": "Tell a classmate",
+      "C": "Report it to IT staff",
+      "D": "Restart computer only"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 424,
+    "question": "Connecting personal USB to the company computer is ________.",
+    "options": {
+      "A": "Allowed anytime",
+      "B": "Not allowed",
+      "C": "Recommended",
+      "D": "Mandatory"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 425,
+    "question": "Why is streaming restricted during work hours?",
+    "options": {
+      "A": "It is boring",
+      "B": "It slows the network",
+      "C": "It saves electricity",
+      "D": "It deletes files"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 426,
+    "question": "Robert generally ________ emails in the morning.",
+    "options": {
+      "A": "check",
+      "B": "checks",
+      "C": "checking",
+      "D": "to check"
+    },
+    "correct_answer": "B",
+    "explanation": "Thì hiện tại đơn với chủ ngữ số ít (Robert)."
+  },
+  {
+    "id": 427,
+    "question": "“Occasionally, sales people have problems.” means ________.",
+    "options": {
+      "A": "They always have problems",
+      "B": "They rarely have problems",
+      "C": "They never have problems",
+      "D": "They often have problems"
+    },
+    "correct_answer": "B",
+    "explanation": "Trong ngữ cảnh trắc nghiệm này, 'Occasionally' (thỉnh thoảng) gần nghĩa nhất với mức độ không thường xuyên (Rarely) khi so với các đáp án cực đoan khác như Always/Never/Often."
+  },
+  {
+    "id": 428,
+    "question": "Which sentence is grammatically correct?",
+    "options": {
+      "A": "Generally, Robert check emails",
+      "B": "Generally, Robert checks emails",
+      "C": "Robert generally checking emails",
+      "D": "Robert emails generally checks"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 429,
+    "question": "Product launches are events to ________.",
+    "options": {
+      "A": "Repair products",
+      "B": "Advertise new products",
+      "C": "Close old shops",
+      "D": "Test employees"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 430,
+    "question": "Customers often ________ for hours to buy new Apple products.",
+    "options": {
+      "A": "stand in line",
+      "B": "stand online",
+      "C": "wait table",
+      "D": "make lines"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 431,
+    "question": "“From time to time” means ________.",
+    "options": {
+      "A": "Always",
+      "B": "Sometimes",
+      "C": "Never",
+      "D": "Often"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 432,
+    "question": "Which sentence shows correct adverb placement?",
+    "options": {
+      "A": "Robert has usually emails",
+      "B": "Robert usually has emails",
+      "C": "Robert has emails usually",
+      "D": "Usually Robert emails has"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 433,
+    "question": "The computers won’t run the new Windows well because ________.",
+    "options": {
+      "A": "They are old",
+      "B": "They are fast",
+      "C": "They are cheap",
+      "D": "They are expensive"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 434,
+    "question": "Ulrik suggested ________ four computers first.",
+    "options": {
+      "A": "replace",
+      "B": "replacing",
+      "C": "to replace",
+      "D": "replaced"
+    },
+    "correct_answer": "B",
+    "explanation": "Cấu trúc: Suggest + V-ing."
+  },
+  {
+    "id": 435,
+    "question": "“Database” is mostly related to ________.",
+    "options": {
+      "A": "Games",
+      "B": "Information storage",
+      "C": "PowerPoint",
+      "D": "Music"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 436,
+    "question": "Which sentence is NOT correct?",
+    "options": {
+      "A": "Microsoft develops software",
+      "B": "Dell makes computers",
+      "C": "Samsung makes cameras",
+      "D": "Apple produces databases"
+    },
+    "correct_answer": "D",
+    "explanation": "Apple nổi tiếng về phần cứng (iPhone, Mac) và hệ điều hành, không phải chuyên sản xuất cơ sở dữ liệu (databases) như Oracle hay Microsoft (Access/SQL)."
+  },
+  {
+    "id": 437,
+    "question": "“Log out when finished” means ________.",
+    "options": {
+      "A": "Turn off the lights",
+      "B": "Exit your account",
+      "C": "Shut down the building",
+      "D": "Save to cloud"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 438,
+    "question": "“IBGroup and Digital World produce software.” Which is false?",
+    "options": {
+      "A": "IBGroup produces hardware",
+      "B": "IBGroup produces software",
+      "C": "Digital World produces software",
+      "D": "Futachiba produces hardware"
+    },
+    "correct_answer": "A",
+    "explanation": "Dựa trên câu đề bài khẳng định IBGroup sản xuất phần mềm, thì câu A (IBGroup sản xuất phần cứng) là sai."
+  },
+  {
+    "id": 439,
+    "question": "Why are meeting minutes useful?",
+    "options": {
+      "A": "To remember decisions",
+      "B": "To start new meetings",
+      "C": "To call customers",
+      "D": "To record audio"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 440,
+    "question": "Which program is for presentations?",
+    "options": {
+      "A": "Excel",
+      "B": "PowerPoint",
+      "C": "Access",
+      "D": "Linux"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 441,
+    "question": "Which activity reduces productivity at work?",
+    "options": {
+      "A": "Playing games",
+      "B": "Writing reports",
+      "C": "Checking emails",
+      "D": "Saving data"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 442,
+    "question": "Cloud computing allows you to ________.",
+    "options": {
+      "A": "Store data online",
+      "B": "Play music offline",
+      "C": "Build hardware",
+      "D": "Install games"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 443,
+    "question": "The person who controls a meeting is called the ________.",
+    "options": {
+      "A": "Agenda",
+      "B": "Chairperson",
+      "C": "Minute taker",
+      "D": "Attendee"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 444,
+    "question": "“Keep mobile phones on silent” helps to ________.",
+    "options": {
+      "A": "Avoid disturbing coworkers",
+      "B": "Save battery",
+      "C": "Increase speed",
+      "D": "Play music"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 445,
+    "question": "Which is a spreadsheet program?",
+    "options": {
+      "A": "Word",
+      "B": "Excel",
+      "C": "Access",
+      "D": "PowerPoint"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 446,
+    "question": "Which sentence is in the passive voice?",
+    "options": {
+      "A": "Robert checks emails",
+      "B": "Emails are checked by Robert",
+      "C": "Robert is checking emails",
+      "D": "Robert will check emails"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 447,
+    "question": "Which software is used for fun?",
+    "options": {
+      "A": "Microsoft Excel",
+      "B": "FileMaker Pro",
+      "C": "Grand Theft Auto",
+      "D": "Linux"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 448,
+    "question": "A support technician mainly ________.",
+    "options": {
+      "A": "Provides technical support",
+      "B": "Designs iPhones",
+      "C": "Writes books",
+      "D": "Runs teleconferences"
+    },
+    "correct_answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 449,
+    "question": "Which is the correct rule for IT rooms?",
+    "options": {
+      "A": "Connect any personal device",
+      "B": "Install software freely",
+      "C": "Save your work regularly",
+      "D": "Leave computers on all night"
+    },
+    "correct_answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 450,
+    "question": "A meeting held online with video is a ________.",
+    "options": {
+      "A": "Teleconference",
+      "B": "Videoconference",
+      "C": "Product launch",
+      "D": "Email meeting"
+    },
+    "correct_answer": "B",
+    "explanation": ""
+  }
+]
