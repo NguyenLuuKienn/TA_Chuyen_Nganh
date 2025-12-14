@@ -145,6 +145,68 @@ document.getElementById('backToHome').addEventListener('click', () => {
     homePage.classList.remove('hidden');
 });
 
+// Back to home from quiz
+document.getElementById('backToHomeFromQuiz').addEventListener('click', () => {
+    Swal.fire({
+        title: '⚠️ Xác nhận thoát',
+        html: '<p class="text-gray-600">Bạn có chắc chắn muốn thoát?</p><p class="text-red-600 font-semibold mt-2">Toàn bộ tiến trình sẽ bị mất!</p>',
+        icon: 'warning',
+        showCancelButton: true,
+        confirmButtonColor: '#ef4444',
+        cancelButtonColor: '#6b7280',
+        confirmButtonText: '<i class="fas fa-sign-out-alt"></i> Thoát',
+        cancelButtonText: 'Ở lại',
+        reverseButtons: true
+    }).then((result) => {
+        if (result.isConfirmed) {
+            clearInterval(timer);
+            quizPage.classList.add('hidden');
+            homePage.classList.remove('hidden');
+            
+            Swal.fire({
+                icon: 'info',
+                title: 'Đã thoát!',
+                text: 'Bạn đã quay lại trang chủ.',
+                timer: 1500,
+                showConfirmButton: false
+            });
+        }
+    });
+});
+
+// Submit early button
+document.getElementById('submitEarlyBtn').addEventListener('click', () => {
+    const unanswered = userAnswers.filter(a => a === null).length;
+    const answered = currentQuiz.length - unanswered;
+    
+    let htmlContent = `
+        <div class="text-left space-y-3">
+            <p class="text-gray-700">📝 <strong>Tổng số câu:</strong> ${currentQuiz.length}</p>
+            <p class="text-green-700">✅ <strong>Đã trả lời:</strong> ${answered} câu</p>
+            ${unanswered > 0 ? `<p class="text-red-700">⚠️ <strong>Chưa trả lời:</strong> ${unanswered} câu</p>` : ''}
+            <hr class="my-3">
+            <p class="text-gray-800 font-semibold text-center">Bạn có chắc chắn muốn nộp bài?</p>
+        </div>
+    `;
+    
+    Swal.fire({
+        title: '📋 Xác nhận nộp bài',
+        html: htmlContent,
+        icon: 'question',
+        showCancelButton: true,
+        confirmButtonColor: '#10b981',
+        cancelButtonColor: '#6b7280',
+        confirmButtonText: '<i class="fas fa-check-circle"></i> Nộp bài',
+        cancelButtonText: 'Tiếp tục làm',
+        reverseButtons: true,
+        width: '500px'
+    }).then((result) => {
+        if (result.isConfirmed) {
+            submitQuiz();
+        }
+    });
+});
+
 // Quick start - Random 50 questions
 document.getElementById('quickStartBtn').addEventListener('click', () => {
     const numQuestions = parseInt(document.getElementById('customNumQuestions').value);
@@ -248,7 +310,7 @@ function startTimer() {
             clearInterval(timer);
             Swal.fire({
                 icon: 'warning',
-                title: 'Hết giờ!',
+                title: '⏰ Hết giờ!',
                 text: 'Bài thi sẽ được nộp tự động.',
                 confirmButtonColor: '#3b82f6'
             }).then(() => {
@@ -319,21 +381,29 @@ document.getElementById('nextBtn').addEventListener('click', () => {
 
 document.getElementById('submitBtn').addEventListener('click', () => {
     const unanswered = userAnswers.filter(a => a === null).length;
+    const answered = currentQuiz.length - unanswered;
     
-    let message = 'Bạn có chắc chắn muốn nộp bài?';
-    if (unanswered > 0) {
-        message = `Bạn còn ${unanswered} câu chưa trả lời.\nBạn có chắc chắn muốn nộp bài?`;
-    }
+    let htmlContent = `
+        <div class="text-left space-y-3">
+            <p class="text-gray-700">📝 <strong>Tổng số câu:</strong> ${currentQuiz.length}</p>
+            <p class="text-green-700">✅ <strong>Đã trả lời:</strong> ${answered} câu</p>
+            ${unanswered > 0 ? `<p class="text-red-700">⚠️ <strong>Chưa trả lời:</strong> ${unanswered} câu</p>` : ''}
+            <hr class="my-3">
+            <p class="text-gray-800 font-semibold text-center">Bạn có chắc chắn muốn nộp bài?</p>
+        </div>
+    `;
     
     Swal.fire({
-        title: 'Xác nhận nộp bài',
-        text: message,
+        title: '📋 Xác nhận nộp bài',
+        html: htmlContent,
         icon: 'question',
         showCancelButton: true,
-        confirmButtonColor: '#3b82f6',
-        cancelButtonColor: '#ef4444',
-        confirmButtonText: 'Nộp bài',
-        cancelButtonText: 'Hủy'
+        confirmButtonColor: '#10b981',
+        cancelButtonColor: '#6b7280',
+        confirmButtonText: '<i class="fas fa-check-circle"></i> Nộp bài',
+        cancelButtonText: 'Kiểm tra lại',
+        reverseButtons: true,
+        width: '500px'
     }).then((result) => {
         if (result.isConfirmed) {
             submitQuiz();
@@ -413,9 +483,15 @@ function submitQuiz() {
     // Show success message
     Swal.fire({
         icon: scorePercent >= 80 ? 'success' : scorePercent >= 50 ? 'info' : 'warning',
-        title: scorePercent >= 80 ? 'Xuất sắc!' : scorePercent >= 50 ? 'Khá tốt!' : 'Cần cố gắng thêm!',
-        text: `Bạn đã đạt ${scorePercent}% (${correctCount}/${currentQuiz.length} câu đúng)`,
-        confirmButtonColor: '#3b82f6'
+        title: scorePercent >= 80 ? '🎉 Xuất sắc!' : scorePercent >= 50 ? '👍 Khá tốt!' : '💪 Cần cố gắng thêm!',
+        html: `
+            <div class="text-center">
+                <p class="text-xl font-bold text-gray-800 mb-2">Điểm của bạn: ${scorePercent}%</p>
+                <p class="text-gray-600">${correctCount}/${currentQuiz.length} câu đúng</p>
+            </div>
+        `,
+        confirmButtonColor: '#3b82f6',
+        confirmButtonText: 'Xem chi tiết'
     });
 }
 

@@ -141,22 +141,43 @@
 
         <!-- Quiz Page -->
         <div id="quizPage" class="hidden">
-            <!-- Timer and Progress -->
+            <!-- Timer and Progress with Back and Submit Early Buttons -->
             <div class="bg-white/80 backdrop-blur-lg rounded-3xl shadow-xl p-6 mb-8 border border-white/20">
-                <div class="flex flex-col md:flex-row justify-between items-center gap-4">
-                    <div class="flex items-center gap-3 px-6 py-3 bg-gradient-to-r from-blue-100 to-purple-100 rounded-2xl">
-                        <svg class="w-7 h-7 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
-                        </svg>
-                        <span id="timer" class="text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">30:00</span>
+                <div class="flex flex-col gap-4">
+                    <!-- Top Row: Back Button and Submit Early Button -->
+                    <div class="flex justify-between items-center">
+                        <button id="backToHomeFromQuiz" class="flex items-center gap-2 text-gray-600 hover:text-red-600 transition-colors px-4 py-2 rounded-xl hover:bg-red-50">
+                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path>
+                            </svg>
+                            <span class="font-semibold">Quay lại</span>
+                        </button>
+                        
+                        <button id="submitEarlyBtn" 
+                                class="flex items-center gap-2 bg-gradient-to-r from-orange-500 to-red-500 hover:from-orange-600 hover:to-red-600 text-white font-bold px-6 py-2 rounded-xl transition-all duration-300 shadow-md hover:shadow-lg transform hover:scale-105">
+                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                            </svg>
+                            <span>Nộp bài sớm</span>
+                        </button>
                     </div>
-                    <div class="flex-1 w-full md:w-auto">
-                        <div class="flex justify-between text-sm font-semibold text-gray-600 mb-2">
-                            <span>📊 Tiến độ</span>
-                            <span id="progressText" class="text-blue-600">0/50</span>
+                    
+                    <!-- Bottom Row: Timer and Progress Bar -->
+                    <div class="flex flex-col md:flex-row justify-between items-center gap-4">
+                        <div class="flex items-center gap-3 px-6 py-3 bg-gradient-to-r from-blue-100 to-purple-100 rounded-2xl">
+                            <svg class="w-7 h-7 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                            </svg>
+                            <span id="timer" class="text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">30:00</span>
                         </div>
-                        <div class="w-full bg-gray-200 rounded-full h-4 overflow-hidden shadow-inner">
-                            <div id="progressBar" class="bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 h-4 rounded-full transition-all duration-500 shadow-lg" style="width: 0%"></div>
+                        <div class="flex-1 w-full md:w-auto">
+                            <div class="flex justify-between text-sm font-semibold text-gray-600 mb-2">
+                                <span>📊 Tiến độ</span>
+                                <span id="progressText" class="text-blue-600">0/50</span>
+                            </div>
+                            <div class="w-full bg-gray-200 rounded-full h-4 overflow-hidden shadow-inner">
+                                <div id="progressBar" class="bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 h-4 rounded-full transition-all duration-500 shadow-lg" style="width: 0%"></div>
+                            </div>
                         </div>
                     </div>
                 </div>
